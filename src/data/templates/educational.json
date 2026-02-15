@@ -1,0 +1,442 @@
+[
+  {
+    "id": "edu-1",
+    "category": "educational",
+    "caption": "📊 [Month] Market Update: [City] saw a [Percentage]% change in median home prices this month. Here's what that means for buyers and sellers in our area...\n\nIf you're thinking about making a move, let's talk strategy. DM me for a free market analysis!",
+    "suggestedImageType": "Infographic with market stats and graphs",
+    "tone": "data-driven",
+    "platforms": ["instagram", "facebook", "linkedin"]
+  },
+  {
+    "id": "edu-2",
+    "category": "educational",
+    "caption": "🏠 3 Things Every First-Time Buyer Should Know About the [City] Market:\n\n1️⃣ Median home price is currently $[Price]\n2️⃣ Homes are selling in an average of [Number] days\n3️⃣ Interest rates are hovering around [Percentage]%\n\nDon't go into this blind — I'm here to guide you every step of the way.",
+    "suggestedImageType": "Carousel with numbered tips on branded slides",
+    "tone": "friendly",
+    "platforms": ["instagram", "facebook"]
+  },
+  {
+    "id": "edu-3",
+    "category": "educational",
+    "caption": "Renting vs. Buying in [City] — Let's Break Down the Real Numbers 💰\n\nAverage rent: $[Amount]/month\nAverage mortgage payment: $[Amount]/month\n\nWhen you factor in equity, tax benefits, and appreciation, buying often wins in the long run. But it depends on YOUR situation.\n\nLet's chat and see what makes sense for you.",
+    "suggestedImageType": "Side-by-side comparison graphic",
+    "tone": "data-driven",
+    "platforms": ["instagram", "facebook", "linkedin"]
+  },
+  {
+    "id": "edu-4",
+    "category": "educational",
+    "caption": "The #1 mistake sellers make when pricing their home? Overpricing it.\n\nI know you want top dollar (and you should!), but here's the thing — overpriced homes sit on the market longer and often sell for LESS than they would have at the right price.\n\nPricing strategy matters. Let's get it right from day one.",
+    "suggestedImageType": "Bold text graphic with pricing tip",
+    "tone": "authoritative",
+    "platforms": ["instagram", "facebook", "linkedin"]
+  },
+  {
+    "id": "edu-5",
+    "category": "educational",
+    "caption": "🏡 Neighborhood Spotlight: [Neighborhood]\n\nWhat I love about this area:\n✅ Walkability score: [Number]/100\n✅ Top-rated schools nearby\n✅ Amazing local restaurants and shops\n✅ Average home price: $[Price]\n\nThinking about living here? I'd love to show you around!",
+    "suggestedImageType": "Photo collage of the neighborhood with overlay text",
+    "tone": "friendly",
+    "platforms": ["instagram", "facebook"]
+  },
+  {
+    "id": "edu-6",
+    "category": "educational",
+    "caption": "Interest rates changed again. Here's what you need to know 👇\n\nCurrent average 30-year fixed rate: [Percentage]%\n\nWhat this means:\n📈 Higher rates = less purchasing power\n📉 But also = less competition from other buyers\n\nThe best time to buy is when YOU'RE ready. Let me help you figure out your numbers.",
+    "suggestedImageType": "Chart showing interest rate trends",
+    "tone": "data-driven",
+    "platforms": ["instagram", "facebook", "linkedin"]
+  },
+  {
+    "id": "edu-7",
+    "category": "educational",
+    "caption": "Spring is coming! 🌷 Here are 5 maintenance tasks every homeowner should do right now:\n\n1. Check your HVAC filters\n2. Inspect the roof for winter damage\n3. Clean gutters and downspouts\n4. Test smoke and CO detectors\n5. Touch up exterior paint\n\nYour home is your biggest investment — take care of it!",
+    "suggestedImageType": "Checklist-style graphic with seasonal theme",
+    "tone": "friendly",
+    "platforms": ["instagram", "facebook"]
+  },
+  {
+    "id": "edu-8",
+    "category": "educational",
+    "caption": "MYTH: You need 20% down to buy a home.\n\nFACT: Many loan programs allow as little as 3-3.5% down. Some even offer 0% down for qualifying buyers.\n\nDon't let outdated information keep you from your dream home. Let's explore your options together!",
+    "suggestedImageType": "Myth vs Fact split graphic",
+    "tone": "authoritative",
+    "platforms": ["instagram", "facebook", "tiktok"]
+  },
+  {
+    "id": "edu-9",
+    "category": "educational",
+    "caption": "Which home improvements give you the best ROI? 📊\n\n🥇 Garage door replacement: 194% ROI\n🥈 Manufactured stone veneer: 153% ROI\n🥉 Minor kitchen remodel: 96% ROI\n\nBefore you renovate, let's talk about which updates will actually increase your home's value in [City].",
+    "suggestedImageType": "Ranked list infographic with dollar signs",
+    "tone": "data-driven",
+    "platforms": ["instagram", "facebook", "linkedin"]
+  },
+  {
+    "id": "edu-10",
+    "category": "educational",
+    "caption": "Thinking about selling your home in [City]? Here's my step-by-step timeline:\n\n📅 8 weeks out: Deep clean & declutter\n📅 6 weeks out: Make repairs & updates\n📅 4 weeks out: Professional photos & staging\n📅 2 weeks out: Pre-listing marketing\n📅 Day 1: Go live!\n\nWant a personalized plan? DM me!",
+    "suggestedImageType": "Timeline infographic with house icons",
+    "tone": "professional",
+    "platforms": ["instagram", "facebook", "linkedin"]
+  },
+  {
+    "id": "edu-11",
+    "category": "educational",
+    "caption": "What's an appraisal and why does it matter? 🏠\n\nAn appraisal is an unbiased estimate of your home's fair market value, required by most lenders.\n\nKey facts:\n• Paid for by the buyer (typically $[Amount])\n• Takes 1-2 weeks to complete\n• Can make or break a deal\n\nQuestions? I'm always here to help.",
+    "suggestedImageType": "Educational graphic explaining the appraisal process",
+    "tone": "professional",
+    "platforms": ["instagram", "facebook", "linkedin"]
+  },
+  {
+    "id": "edu-12",
+    "category": "educational",
+    "caption": "5 red flags to watch for at an open house 🚩\n\n1. Fresh paint only in certain spots (what are they covering?)\n2. Strong air fresheners everywhere\n3. Water stains on ceilings\n4. Cracks in the foundation\n5. Doors that won't close properly\n\nAlways bring your agent — we know what to look for!",
+    "suggestedImageType": "Numbered list with warning icons",
+    "tone": "casual",
+    "platforms": ["instagram", "facebook", "tiktok"]
+  },
+  {
+    "id": "edu-13",
+    "category": "educational",
+    "caption": "Closing costs explained 💡\n\nBuyers in [City] can expect to pay 2-5% of the purchase price in closing costs. Here's what's included:\n\n• Loan origination fees\n• Title insurance\n• Appraisal fee\n• Home inspection\n• Recording fees\n• Prepaid taxes & insurance\n\nNo surprises when you work with me!",
+    "suggestedImageType": "Breakdown chart of closing costs",
+    "tone": "professional",
+    "platforms": ["instagram", "facebook", "linkedin"]
+  },
+  {
+    "id": "edu-14",
+    "category": "educational",
+    "caption": "Pre-approved vs. Pre-qualified — there IS a difference! ✅\n\nPre-qualified: Quick estimate based on self-reported info\nPre-approved: Verified by a lender with documentation\n\nWhich one do sellers take seriously? Pre-approved. Every time.\n\nReady to get started? I can connect you with trusted lenders in [City].",
+    "suggestedImageType": "Comparison graphic with checkmarks",
+    "tone": "authoritative",
+    "platforms": ["instagram", "facebook", "linkedin"]
+  },
+  {
+    "id": "edu-15",
+    "category": "educational",
+    "caption": "🏘️ Neighborhood Spotlight: [Neighborhood]\n\nMedian home price: $[Price]\nAverage days on market: [Number]\nSchool rating: [Number]/10\nWalk score: [Number]/100\n\nThis area is perfect for families who love [Features]. Let me know if you want a private tour!",
+    "suggestedImageType": "Beautiful neighborhood photo with stat overlays",
+    "tone": "friendly",
+    "platforms": ["instagram", "facebook"]
+  },
+  {
+    "id": "edu-16",
+    "category": "educational",
+    "caption": "What does your credit score need to be to buy a home? 🤔\n\n🏠 Conventional loan: 620+\n🏠 FHA loan: 580+ (or 500 with 10% down)\n🏠 VA loan: No minimum (but most lenders want 620+)\n🏠 USDA loan: 640+\n\nYour score isn't perfect? Don't worry — there are options. Let's talk!",
+    "suggestedImageType": "Credit score ranges with color coding",
+    "tone": "friendly",
+    "platforms": ["instagram", "facebook", "tiktok"]
+  },
+  {
+    "id": "edu-17",
+    "category": "educational",
+    "caption": "The hidden costs of homeownership nobody talks about 🏠💸\n\n• Property taxes ($[Amount]/year average in [City])\n• Homeowner's insurance\n• Maintenance (budget 1-2% of home value/year)\n• HOA fees (if applicable)\n• Utilities increase with larger space\n\nBetter to know now than be surprised later!",
+    "suggestedImageType": "List-style infographic with dollar icons",
+    "tone": "casual",
+    "platforms": ["instagram", "facebook"]
+  },
+  {
+    "id": "edu-18",
+    "category": "educational",
+    "caption": "Should you sell before you buy, or buy before you sell? 🤔\n\nSell first: ✅ Know your budget ❌ Need temporary housing\nBuy first: ✅ No rush to move ❌ Two mortgage payments\n\nThere's also a third option — contingent offers. Let's discuss what works best for your situation in [City].",
+    "suggestedImageType": "Pros and cons comparison chart",
+    "tone": "professional",
+    "platforms": ["instagram", "facebook", "linkedin"]
+  },
+  {
+    "id": "edu-19",
+    "category": "educational",
+    "caption": "Winter home maintenance checklist ❄️\n\n☐ Insulate exposed pipes\n☐ Check weather stripping on doors/windows\n☐ Service your furnace\n☐ Stock up on ice melt\n☐ Reverse ceiling fans (clockwise)\n☐ Clean fireplace and chimney\n\nA little prep now saves big headaches later!",
+    "suggestedImageType": "Winter-themed checklist graphic",
+    "tone": "friendly",
+    "platforms": ["instagram", "facebook"]
+  },
+  {
+    "id": "edu-20",
+    "category": "educational",
+    "caption": "MYTH: Spring is the only good time to sell.\n\nFACT: In [City], homes sell year-round. In fact, winter listings often face less competition and attract more serious buyers.\n\nThere is no \"perfect time\" to sell — only the right time for YOU.\n\nLet's create a strategy that works with your timeline.",
+    "suggestedImageType": "Myth-busting graphic with seasonal icons",
+    "tone": "authoritative",
+    "platforms": ["instagram", "facebook", "linkedin"]
+  },
+  {
+    "id": "edu-21",
+    "category": "educational",
+    "caption": "What IS earnest money? 💰\n\nEarnest money is a deposit (usually 1-3% of purchase price) that shows the seller you're serious about buying their home.\n\nIt goes toward your down payment at closing. But if you back out without a valid contingency, you could lose it.\n\nAlways protect yourself with the right contract terms!",
+    "suggestedImageType": "Simple explainer graphic with key terms highlighted",
+    "tone": "professional",
+    "platforms": ["instagram", "facebook"]
+  },
+  {
+    "id": "edu-22",
+    "category": "educational",
+    "caption": "Home staging isn't just for luxury listings! Here's why staging matters at EVERY price point in [City]:\n\n📸 Staged homes photograph better\n⏱️ They sell 73% faster on average\n💰 And for up to 25% more money\n\nI offer staging consultations for all my sellers. Let's maximize your home's potential!",
+    "suggestedImageType": "Before and after staging photos",
+    "tone": "professional",
+    "platforms": ["instagram", "facebook", "linkedin"]
+  },
+  {
+    "id": "edu-23",
+    "category": "educational",
+    "caption": "🏠 Buyer tip: Always get a home inspection!\n\nEven in a competitive market, skipping the inspection is risky. Here's what inspectors look for:\n\n🔍 Structural issues\n🔍 Plumbing & electrical\n🔍 Roof condition\n🔍 HVAC systems\n🔍 Water damage & mold\n\nIt's the best $[Amount] you'll ever spend.",
+    "suggestedImageType": "Home inspection checklist with magnifying glass icon",
+    "tone": "authoritative",
+    "platforms": ["instagram", "facebook"]
+  },
+  {
+    "id": "edu-24",
+    "category": "educational",
+    "caption": "What's the difference between a buyer's market and a seller's market? 📊\n\nBuyer's market: More homes available than buyers. Prices tend to drop, and buyers have negotiating power.\n\nSeller's market: More buyers than homes. Prices go up, and multiple offers are common.\n\nRight now in [City], we're in a [Market] market. Here's how to navigate it...",
+    "suggestedImageType": "Comparison infographic with supply/demand visual",
+    "tone": "data-driven",
+    "platforms": ["instagram", "facebook", "linkedin"]
+  },
+  {
+    "id": "edu-25",
+    "category": "educational",
+    "caption": "Summer energy-saving tips for homeowners ☀️\n\n1. Set your thermostat to 78°F when home\n2. Use ceiling fans to circulate air\n3. Close blinds during peak sun hours\n4. Seal gaps around windows and doors\n5. Service your AC before the heat hits\n\nSave money and stay cool!",
+    "suggestedImageType": "Summer-themed tips graphic with sun icons",
+    "tone": "casual",
+    "platforms": ["instagram", "facebook"]
+  },
+  {
+    "id": "edu-26",
+    "category": "educational",
+    "caption": "Thinking of buying an investment property in [City]? Here's what to consider:\n\n📍 Location, location, location\n📊 Expected rental income vs. expenses\n🏠 Property condition and maintenance costs\n📋 Local landlord-tenant laws\n💰 Financing options for investment properties\n\nI work with investors regularly — let's talk numbers!",
+    "suggestedImageType": "Investment property checklist with calculator icon",
+    "tone": "professional",
+    "platforms": ["instagram", "facebook", "linkedin"]
+  },
+  {
+    "id": "edu-27",
+    "category": "educational",
+    "caption": "What happens on closing day? 🎉\n\nHere's a quick rundown:\n\n1️⃣ Final walkthrough of the property\n2️⃣ Sign all the paperwork (lots of it!)\n3️⃣ Funds are transferred\n4️⃣ Title is recorded with the county\n5️⃣ You get the keys! 🔑\n\nThe whole process usually takes 1-2 hours. I'll be there with you every step!",
+    "suggestedImageType": "Step-by-step closing day timeline",
+    "tone": "friendly",
+    "platforms": ["instagram", "facebook"]
+  },
+  {
+    "id": "edu-28",
+    "category": "educational",
+    "caption": "Fixed rate vs. Adjustable rate mortgage — which is right for you? 🏦\n\nFixed rate:\n✅ Same payment for the life of the loan\n✅ Predictable budgeting\n❌ Usually higher initial rate\n\nAdjustable (ARM):\n✅ Lower initial rate\n✅ Good if you plan to move in 5-7 years\n❌ Rate can increase over time\n\nLet's connect you with a great lender to explore options!",
+    "suggestedImageType": "Side-by-side mortgage comparison chart",
+    "tone": "data-driven",
+    "platforms": ["instagram", "facebook", "linkedin"]
+  },
+  {
+    "id": "edu-29",
+    "category": "educational",
+    "caption": "🏡 Fall home prep checklist:\n\n🍂 Clean gutters and downspouts\n🍂 Seal cracks in driveway and walkways\n🍂 Aerate and overseed your lawn\n🍂 Store outdoor furniture\n🍂 Have your furnace inspected\n🍂 Check attic insulation\n\nTaking care of these now will save you money all winter long!",
+    "suggestedImageType": "Fall-themed checklist with leaf decorations",
+    "tone": "friendly",
+    "platforms": ["instagram", "facebook"]
+  },
+  {
+    "id": "edu-30",
+    "category": "educational",
+    "caption": "MYTH: You should always offer below asking price.\n\nFACT: In [City]'s current market, lowball offers can cost you the home entirely. Pricing strategy depends on:\n\n• Days on market\n• Number of competing offers\n• Comparable sales\n• Property condition\n\nI'll help you craft an offer that's competitive AND smart.",
+    "suggestedImageType": "Myth vs Fact graphic with negotiation theme",
+    "tone": "authoritative",
+    "platforms": ["instagram", "facebook", "linkedin"]
+  },
+  {
+    "id": "edu-31",
+    "category": "educational",
+    "caption": "What is PMI and how can you avoid it? 💡\n\nPMI (Private Mortgage Insurance) is required when you put less than 20% down. It protects the LENDER, not you.\n\nHow to avoid it:\n• Put 20%+ down\n• Use a piggyback loan (80/10/10)\n• Choose a lender-paid PMI option\n• Look into VA or USDA loans (no PMI!)\n\nWant to know your options? Let's chat!",
+    "suggestedImageType": "PMI explainer infographic",
+    "tone": "data-driven",
+    "platforms": ["instagram", "facebook", "linkedin"]
+  },
+  {
+    "id": "edu-32",
+    "category": "educational",
+    "caption": "🏘️ Neighborhood Spotlight: [Neighborhood]\n\n🌳 Known for its tree-lined streets and charming character\n🏫 Highly rated schools in the area\n🍕 Walk to local restaurants and coffee shops\n📈 Property values have increased [Percentage]% in the last year\n\nThis hidden gem won't stay hidden for long. Let me show you around!",
+    "suggestedImageType": "Neighborhood photos in a carousel format",
+    "tone": "friendly",
+    "platforms": ["instagram", "facebook"]
+  },
+  {
+    "id": "edu-33",
+    "category": "educational",
+    "caption": "What's a CMA and why do you need one? 📋\n\nA Comparative Market Analysis (CMA) compares your home to similar recently sold properties to determine the right listing price.\n\nIt's the foundation of your pricing strategy — and I provide them for FREE.\n\nWant to know what your home is worth in today's [City] market? DM me!",
+    "suggestedImageType": "CMA report mockup or house comparison graphic",
+    "tone": "professional",
+    "platforms": ["instagram", "facebook", "linkedin"]
+  },
+  {
+    "id": "edu-34",
+    "category": "educational",
+    "caption": "First-time buyer FAQ: What are contingencies? 📝\n\nContingencies are conditions that must be met for the sale to go through. Common ones:\n\n🔍 Inspection contingency\n💰 Financing contingency\n🏠 Appraisal contingency\n📄 Title contingency\n\nThey protect YOU as a buyer. Never waive them without understanding the risks!",
+    "suggestedImageType": "FAQ-style graphic with question marks",
+    "tone": "friendly",
+    "platforms": ["instagram", "facebook"]
+  },
+  {
+    "id": "edu-35",
+    "category": "educational",
+    "caption": "The biggest mistake I see first-time buyers make? Not budgeting for AFTER closing.\n\nBeyond your mortgage, plan for:\n• Moving costs\n• New furniture and appliances\n• Immediate repairs or updates\n• Emergency fund (3-6 months expenses)\n\nA little planning goes a long way. I always help my clients think ahead!",
+    "suggestedImageType": "Budget breakdown graphic with piggy bank icon",
+    "tone": "casual",
+    "platforms": ["instagram", "facebook", "tiktok"]
+  },
+  {
+    "id": "edu-36",
+    "category": "educational",
+    "caption": "How long does it ACTUALLY take to buy a home? ⏱️\n\nHere's the typical timeline:\n\n🔍 Home search: 2-6 months\n📝 Under contract to closing: 30-60 days\n\nTotal: 3-8 months on average\n\nBut it all starts with getting pre-approved. That's step one — and I can help you get there!",
+    "suggestedImageType": "Timeline graphic showing the home buying process",
+    "tone": "friendly",
+    "platforms": ["instagram", "facebook", "tiktok"]
+  },
+  {
+    "id": "edu-37",
+    "category": "educational",
+    "caption": "Seller tip: The first 2 weeks on market are EVERYTHING 📈\n\nStatistically, you get the most showings and highest offers in the first 14 days. After that, interest drops sharply.\n\nThat's why proper pricing, staging, and marketing from day one is critical.\n\nLet me show you my listing launch strategy for [City] homes!",
+    "suggestedImageType": "Graph showing showing activity over time on market",
+    "tone": "authoritative",
+    "platforms": ["instagram", "facebook", "linkedin"]
+  },
+  {
+    "id": "edu-38",
+    "category": "educational",
+    "caption": "What are HOA fees and what do they cover? 🏢\n\nHOA fees vary widely ($[Amount]-$[Amount]/month in [City]) and typically cover:\n\n✅ Community maintenance\n✅ Amenities (pool, gym, etc.)\n✅ Exterior maintenance\n✅ Insurance for common areas\n\nAlways review the HOA docs before buying! I'll help you understand what you're signing up for.",
+    "suggestedImageType": "HOA breakdown infographic",
+    "tone": "professional",
+    "platforms": ["instagram", "facebook"]
+  },
+  {
+    "id": "edu-39",
+    "category": "educational",
+    "caption": "MYTH: All real estate agents are the same.\n\nFACT: Your agent's experience, market knowledge, negotiation skills, and marketing strategy can mean tens of thousands of dollars difference.\n\nInterview at least 2-3 agents. Ask about their track record, marketing plan, and communication style.\n\nI'm always happy to earn your business!",
+    "suggestedImageType": "Professional headshot with key differentiators listed",
+    "tone": "authoritative",
+    "platforms": ["instagram", "facebook", "linkedin"]
+  },
+  {
+    "id": "edu-40",
+    "category": "educational",
+    "caption": "🏡 Neighborhood Spotlight: [Neighborhood]\n\n📍 Location: Just minutes from downtown [City]\n💰 Avg home price: $[Price]\n🎓 School district: Highly rated\n🌿 Vibe: Quiet streets, mature trees, community feel\n\nIf you're looking for a neighborhood that feels like home, this is it. Tour with me this weekend!",
+    "suggestedImageType": "Aesthetic neighborhood photo with warm lighting",
+    "tone": "friendly",
+    "platforms": ["instagram", "facebook"]
+  },
+  {
+    "id": "edu-41",
+    "category": "educational",
+    "caption": "How to win a multiple offer situation without going crazy 🏆\n\n1. Get pre-approved (not just pre-qualified)\n2. Offer clean terms — fewer contingencies\n3. Be flexible on closing date\n4. Include an escalation clause\n5. Write a personal letter to the seller\n\nI've helped my clients win in competitive situations all over [City]!",
+    "suggestedImageType": "Numbered strategy tips with trophy icon",
+    "tone": "casual",
+    "platforms": ["instagram", "facebook", "tiktok"]
+  },
+  {
+    "id": "edu-42",
+    "category": "educational",
+    "caption": "Down payment assistance programs exist — and you might qualify! 🎉\n\nMany first-time buyers in [City] don't realize there are grants and programs that can help with your down payment.\n\nSome options:\n• FHA loans (3.5% down)\n• State-specific grant programs\n• Employer assistance programs\n• Community development programs\n\nDM me and I'll connect you with a lender who specializes in these!",
+    "suggestedImageType": "Money and house graphic with assistance program logos",
+    "tone": "friendly",
+    "platforms": ["instagram", "facebook", "tiktok"]
+  },
+  {
+    "id": "edu-43",
+    "category": "educational",
+    "caption": "What does 'as-is' really mean when buying a home? 🤔\n\nIt means the seller won't make repairs. But it does NOT mean:\n❌ You can't get an inspection\n❌ You can't negotiate\n❌ The home is in bad shape\n\nIt simply means the price reflects the current condition. Always do your due diligence!",
+    "suggestedImageType": "Explainer graphic clarifying as-is meaning",
+    "tone": "authoritative",
+    "platforms": ["instagram", "facebook"]
+  },
+  {
+    "id": "edu-44",
+    "category": "educational",
+    "caption": "Curb appeal hacks that cost under $500 💐\n\n🌸 Fresh mulch and flowers: $50-100\n🚪 New house numbers: $20-50\n💡 Updated porch light: $30-80\n🎨 Fresh front door paint: $30-50\n📬 New mailbox: $30-100\n\nFirst impressions matter — especially in real estate!",
+    "suggestedImageType": "Before/after curb appeal transformation photos",
+    "tone": "casual",
+    "platforms": ["instagram", "facebook", "tiktok"]
+  },
+  {
+    "id": "edu-45",
+    "category": "educational",
+    "caption": "Understanding your property tax bill in [City] 📋\n\nYour property tax is based on:\n📍 Assessed value of your home\n📊 Local tax rate (mill rate)\n🏫 School district levies\n🏛️ County and city assessments\n\nThe average homeowner in [City] pays about $[Amount]/year.\n\nHave questions about property taxes? Ask me anytime!",
+    "suggestedImageType": "Property tax breakdown infographic",
+    "tone": "data-driven",
+    "platforms": ["instagram", "facebook", "linkedin"]
+  },
+  {
+    "id": "edu-46",
+    "category": "educational",
+    "caption": "Seller tip: These are the rooms that sell homes 🏠\n\n1️⃣ Kitchen — 80% of buyers decide here\n2️⃣ Primary bathroom — buyers want a retreat\n3️⃣ Living room — first impression space\n\nYou don't need a full renovation. Small updates in these rooms = massive impact on sale price.",
+    "suggestedImageType": "Beautiful kitchen, bathroom, and living room photos",
+    "tone": "professional",
+    "platforms": ["instagram", "facebook"]
+  },
+  {
+    "id": "edu-47",
+    "category": "educational",
+    "caption": "📊 [Month] [Year] [City] Market Snapshot:\n\n🏠 Homes sold: [Number]\n💰 Median price: $[Price]\n📅 Avg days on market: [Number]\n📈 Price change vs last year: [Percentage]%\n\nThe market is always evolving. Stay informed — follow me for monthly updates!",
+    "suggestedImageType": "Clean data dashboard graphic with stats",
+    "tone": "data-driven",
+    "platforms": ["instagram", "facebook", "linkedin"]
+  },
+  {
+    "id": "edu-48",
+    "category": "educational",
+    "caption": "What every buyer should know about title insurance 📜\n\nTitle insurance protects you from claims against your property's ownership history. It's a one-time cost at closing.\n\nWithout it, you could face:\n⚠️ Unknown liens\n⚠️ Forgery or fraud\n⚠️ Boundary disputes\n⚠️ Missing heirs\n\nIt's a small price for big peace of mind!",
+    "suggestedImageType": "Title insurance explainer with shield icon",
+    "tone": "professional",
+    "platforms": ["instagram", "facebook", "linkedin"]
+  },
+  {
+    "id": "edu-49",
+    "category": "educational",
+    "caption": "How to prepare your finances before buying a home 💰\n\n✅ Check your credit score (aim for 700+)\n✅ Pay down debt (lower your DTI ratio)\n✅ Save for down payment AND closing costs\n✅ Avoid major purchases or new credit\n✅ Get pre-approved by a lender\n\nStart this process 6-12 months before you want to buy!",
+    "suggestedImageType": "Financial preparation checklist graphic",
+    "tone": "friendly",
+    "platforms": ["instagram", "facebook", "tiktok"]
+  },
+  {
+    "id": "edu-50",
+    "category": "educational",
+    "caption": "🏘️ Neighborhood Spotlight: [Neighborhood]\n\nPerfect for: Young professionals and growing families\n🍽️ Food scene: Incredible local dining\n🚶 Walkability: Above average\n🏠 Housing mix: Bungalows, condos, new construction\n💰 Entry price: $[Price]+\n\nI love helping clients discover the right neighborhood. Let's find yours!",
+    "suggestedImageType": "Neighborhood lifestyle photos — cafes, streets, homes",
+    "tone": "casual",
+    "platforms": ["instagram", "facebook"]
+  },
+  {
+    "id": "edu-51",
+    "category": "educational",
+    "caption": "Thinking about refinancing? Here's when it makes sense 💡\n\n✅ Rates drop 0.75-1% below your current rate\n✅ You plan to stay 3+ more years\n✅ Your credit score has improved significantly\n✅ You want to switch from ARM to fixed\n✅ You need to remove PMI\n\nRun the numbers first — I can connect you with a great lender in [City]!",
+    "suggestedImageType": "Refinancing decision flowchart",
+    "tone": "data-driven",
+    "platforms": ["instagram", "facebook", "linkedin"]
+  },
+  {
+    "id": "edu-52",
+    "category": "educational",
+    "caption": "MYTH: You don't need an agent to buy new construction.\n\nFACT: The builder's agent represents the BUILDER, not you. Having your own agent costs you nothing and gives you:\n\n🛡️ Someone negotiating for YOUR interests\n📋 Help reviewing contracts\n🔍 Inspection guidance\n💰 Potential upgrades or closing cost credits\n\nNever go to a model home without your agent!",
+    "suggestedImageType": "New construction photo with myth-busting overlay",
+    "tone": "authoritative",
+    "platforms": ["instagram", "facebook", "linkedin"]
+  },
+  {
+    "id": "edu-53",
+    "category": "educational",
+    "caption": "Smart home features that add value in [Year] 🏠🤖\n\n1. Smart thermostat: Saves energy and appeals to buyers\n2. Video doorbell: Security meets convenience\n3. Smart locks: No more lost keys\n4. Automated lighting: Set the mood (and save electricity)\n5. Leak detectors: Prevent costly water damage\n\nSmall tech upgrades, big appeal!",
+    "suggestedImageType": "Smart home devices collage",
+    "tone": "casual",
+    "platforms": ["instagram", "facebook", "tiktok"]
+  },
+  {
+    "id": "edu-54",
+    "category": "educational",
+    "caption": "What's escrow and how does it work? 🔐\n\nEscrow is a neutral third party that holds funds and documents during a real estate transaction.\n\nThink of it as a trusted middleman:\n1. Buyer deposits earnest money into escrow\n2. Documents and conditions are verified\n3. Once everything checks out, escrow closes\n4. Funds are distributed, title is transferred\n\nIt protects BOTH buyer and seller!",
+    "suggestedImageType": "Escrow process flowchart",
+    "tone": "professional",
+    "platforms": ["instagram", "facebook", "linkedin"]
+  },
+  {
+    "id": "edu-55",
+    "category": "educational",
+    "caption": "Attention [City] homeowners: Did you know your home equity might be at an all-time high? 📈\n\nHome values in [City] have increased approximately [Percentage]% over the past year.\n\nYour equity options:\n💰 Home equity loan\n💰 HELOC\n💰 Cash-out refinance\n💰 Sell and upgrade\n\nWant to know your home's current value? I offer free CMAs — just DM me!",
+    "suggestedImageType": "Rising graph showing home equity growth",
+    "tone": "data-driven",
+    "platforms": ["instagram", "facebook", "linkedin"]
+  }
+]

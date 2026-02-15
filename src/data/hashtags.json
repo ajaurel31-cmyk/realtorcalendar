@@ -1,0 +1,30 @@
+{
+  "instagram": {
+    "general": ["#RealEstate", "#Realtor", "#HomeSweetHome", "#DreamHome", "#HouseHunting", "#HomeForSale", "#RealEstateAgent", "#RealtorLife", "#Property", "#NewHome"],
+    "listing": ["#JustListed", "#NewListing", "#OpenHouse", "#ForSale", "#HomeForSale", "#PropertyForSale", "#RealEstateListings", "#HouseForSale", "#ListingOfTheDay"],
+    "sold": ["#JustSold", "#Sold", "#ClosingDay", "#NewHomeowners", "#HappyBuyers", "#RealEstateSuccess", "#SoldByMe", "#UnderContract"],
+    "tips": ["#HomeBuyerTips", "#RealEstateTips", "#HomeSellerTips", "#FirstTimeHomeBuyer", "#RealEstateAdvice", "#HomeOwnership", "#MortgageTips", "#MovingTips"],
+    "market": ["#MarketUpdate", "#HousingMarket", "#RealEstateMarket", "#MarketReport", "#HomeValues", "#RealEstateInvesting", "#PropertyMarket"]
+  },
+  "facebook": {
+    "general": ["#RealEstate", "#Realtor", "#HomeForSale", "#DreamHome"],
+    "listing": ["#JustListed", "#OpenHouse", "#NewListing", "#ForSale"],
+    "sold": ["#JustSold", "#Sold", "#ClosingDay", "#HappyClients"],
+    "tips": ["#HomeBuyerTips", "#RealEstateTips", "#FirstTimeHomeBuyer"],
+    "market": ["#MarketUpdate", "#HousingMarket", "#RealEstateNews"]
+  },
+  "linkedin": {
+    "general": ["#RealEstate", "#RealEstateAgent", "#PropertyManagement", "#RealEstateIndustry"],
+    "listing": ["#NewListing", "#PropertyForSale", "#CommercialRealEstate"],
+    "sold": ["#JustSold", "#SuccessStory", "#ClientSuccess"],
+    "tips": ["#RealEstateTips", "#IndustryInsights", "#ProfessionalDevelopment"],
+    "market": ["#MarketAnalysis", "#HousingMarket", "#EconomicUpdate", "#MarketTrends"]
+  },
+  "tiktok": {
+    "general": ["#realestate", "#realtor", "#realtortok", "#housetour", "#dreamhome"],
+    "listing": ["#justlisted", "#housetour", "#openhouse", "#hometour", "#propertytour"],
+    "sold": ["#justsold", "#sold", "#closingday", "#realtorlife"],
+    "tips": ["#homebuyertips", "#realestatetips", "#firsttimehomebuyer", "#mortgagetips"],
+    "market": ["#housingmarket", "#marketupdate", "#realestateinvesting"]
+  }
+}

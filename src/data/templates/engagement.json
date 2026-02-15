@@ -1,0 +1,418 @@
+[
+  {
+    "id": "engage-1",
+    "category": "engagement",
+    "caption": "🏠 THIS OR THAT: Real Estate Edition!\n\nPool 🏊 or Hot Tub 🛁?\n\nDrop your answer below! 👇 I feel like this one really divides people in [City]...",
+    "suggestedImageType": "Split-screen graphic with a pool on one side and a hot tub on the other, bold 'THIS OR THAT' text overlay",
+    "tone": "fun",
+    "platforms": ["instagram", "facebook", "tiktok"]
+  },
+  {
+    "id": "engage-2",
+    "category": "engagement",
+    "caption": "🔥 THIS OR THAT: Homebuyer Edition!\n\nFixer-upper with character 🔨 or Move-in ready modern build 🏡?\n\nBe honest... which one are you picking? Tell me in the comments! 👇",
+    "suggestedImageType": "Side-by-side comparison of a charming fixer-upper and a sleek modern home with bold text overlay",
+    "tone": "interactive",
+    "platforms": ["instagram", "facebook", "tiktok"]
+  },
+  {
+    "id": "engage-3",
+    "category": "engagement",
+    "caption": "THIS OR THAT 🤔\n\nBig backyard, small house 🌳 OR Small yard, big house 🏠?\n\nHomeowners in [City] — what matters more to you? Drop your pick! 👇",
+    "suggestedImageType": "Split graphic showing a large yard with a modest home vs. a large home on a small lot",
+    "tone": "interactive",
+    "platforms": ["instagram", "facebook", "linkedin"]
+  },
+  {
+    "id": "engage-4",
+    "category": "engagement",
+    "caption": "🏡 WOULD YOU RATHER...\n\nLive next door to your best friend OR live on 10 acres with no neighbors in sight?\n\nThis one is TOUGH. Let me know below! 👇😂",
+    "suggestedImageType": "Fun graphic with two contrasting neighborhood scenes — close-knit community vs. secluded rural property",
+    "tone": "playful",
+    "platforms": ["instagram", "facebook", "tiktok"]
+  },
+  {
+    "id": "engage-5",
+    "category": "engagement",
+    "caption": "⚡ THIS OR THAT: Kitchen Edition!\n\nOpen concept kitchen 🍳 or Separate formal dining room 🍷?\n\nI already know this is going to start a debate... GO! 👇",
+    "suggestedImageType": "Split image of a gorgeous open-concept kitchen vs. an elegant separate dining room",
+    "tone": "fun",
+    "platforms": ["instagram", "facebook", "tiktok"]
+  },
+  {
+    "id": "engage-6",
+    "category": "engagement",
+    "caption": "WOULD YOU RATHER... 🤷\n\nHave a chef's kitchen with all the upgrades 🔪 OR a spa-like master bathroom with a soaking tub? 🛁\n\nYou can only pick ONE. What's it gonna be, [City]? 👇",
+    "suggestedImageType": "Split graphic with a luxury kitchen on one side and a luxury bathroom on the other",
+    "tone": "interactive",
+    "platforms": ["instagram", "facebook", "tiktok"]
+  },
+  {
+    "id": "engage-7",
+    "category": "engagement",
+    "caption": "🏠 THIS OR THAT: Location Edition!\n\nWalkable downtown living 🚶 or Quiet cul-de-sac in the suburbs 🌿?\n\nWhere are you planting roots? Tell me! 👇",
+    "suggestedImageType": "Side-by-side of a vibrant downtown street scene and a peaceful suburban cul-de-sac",
+    "tone": "conversational",
+    "platforms": ["instagram", "facebook", "linkedin"]
+  },
+  {
+    "id": "engage-8",
+    "category": "engagement",
+    "caption": "WOULD YOU RATHER... 🏡\n\nBuy a home that's 20 minutes from work with an amazing view 🌅 OR 5 minutes from work with no view? 🏢\n\nCommuters of [City], I need your honest answer! 👇",
+    "suggestedImageType": "Comparison graphic with a home with a stunning view vs. a conveniently located home near offices",
+    "tone": "interactive",
+    "platforms": ["instagram", "facebook", "linkedin"]
+  },
+  {
+    "id": "engage-9",
+    "category": "engagement",
+    "caption": "THIS OR THAT 🔥\n\nHardwood floors throughout 🪵 or Luxury vinyl plank everywhere? ✨\n\nReal estate agents and homeowners — this one gets HEATED. Drop your take! 👇",
+    "suggestedImageType": "Close-up split comparison of beautiful hardwood flooring vs. luxury vinyl plank",
+    "tone": "fun",
+    "platforms": ["instagram", "facebook", "tiktok"]
+  },
+  {
+    "id": "engage-10",
+    "category": "engagement",
+    "caption": "WOULD YOU RATHER... 🏠\n\nOwn a cozy 2-bed cottage on the beach 🏖️ OR a spacious 5-bed house in the mountains? 🏔️\n\nNo wrong answers... but I'm judging 😂 Comment below! 👇",
+    "suggestedImageType": "Split image of a charming beach cottage vs. a beautiful mountain home",
+    "tone": "playful",
+    "platforms": ["instagram", "facebook", "tiktok"]
+  },
+  {
+    "id": "engage-11",
+    "category": "engagement",
+    "caption": "📊 POLL TIME!\n\nWhat's the FIRST thing you notice when you walk into a home?\n\nA) The kitchen\nB) Natural light\nC) The flooring\nD) The smell 👃\n\nDrop your letter below! I bet most of [City] says B... prove me wrong! 👇",
+    "suggestedImageType": "Bright, inviting interior photo of a home with great natural light and visible kitchen, with poll letters overlaid",
+    "tone": "interactive",
+    "platforms": ["instagram", "facebook", "tiktok"]
+  },
+  {
+    "id": "engage-12",
+    "category": "engagement",
+    "caption": "❓ QUESTION FOR MY [City] PEOPLE:\n\nIf money was no object, what neighborhood would you live in and WHY?\n\nI'll go first... [Neighborhood] because the vibes are unmatched! 🙌\n\nYour turn! 👇",
+    "suggestedImageType": "Beautiful aerial or street-level photo of a desirable neighborhood in the area",
+    "tone": "conversational",
+    "platforms": ["instagram", "facebook", "linkedin"]
+  },
+  {
+    "id": "engage-13",
+    "category": "engagement",
+    "caption": "🗳️ SETTLE THIS DEBATE:\n\nIs a garage a non-negotiable when buying a home?\n\n🅰️ ABSOLUTELY, dealbreaker without one\n🅱️ Nah, I can live without it\n\nI'm seeing more and more buyers in [City] split on this one. Where do you stand? 👇",
+    "suggestedImageType": "Photo of a clean, organized two-car garage or a home exterior featuring the garage prominently",
+    "tone": "interactive",
+    "platforms": ["instagram", "facebook", "linkedin"]
+  },
+  {
+    "id": "engage-14",
+    "category": "engagement",
+    "caption": "🤔 REAL TALK: How old were you when you bought your first home?\n\nOR — if you haven't yet, what age are you hoping to buy by?\n\nNo judgment here! Let's normalize talking about it. 💬👇",
+    "suggestedImageType": "Lifestyle photo of a happy person or couple holding house keys in front of a home",
+    "tone": "conversational",
+    "platforms": ["instagram", "facebook", "linkedin"]
+  },
+  {
+    "id": "engage-15",
+    "category": "engagement",
+    "caption": "📊 QUICK POLL:\n\nWhat's your biggest dealbreaker in a home?\n\n1️⃣ No natural light\n2️⃣ Small closets\n3️⃣ Only one bathroom\n4️⃣ No outdoor space\n5️⃣ Busy street\n\nPick your number! I guarantee #1 and #4 are gonna battle it out in [City] 😂👇",
+    "suggestedImageType": "Graphic listing the five dealbreaker options with relevant icons for each",
+    "tone": "fun",
+    "platforms": ["instagram", "facebook", "tiktok"]
+  },
+  {
+    "id": "engage-16",
+    "category": "engagement",
+    "caption": "❓ HOMEOWNERS — Be honest:\n\nWhat's one thing you WISH you had known before buying your home?\n\nDrop your best advice for future buyers below! This thread is going to be GOLD for first-timers. 🏡💡👇",
+    "suggestedImageType": "Relatable photo of someone looking thoughtful in their home or a 'lessons learned' themed graphic",
+    "tone": "conversational",
+    "platforms": ["instagram", "facebook", "linkedin"]
+  },
+  {
+    "id": "engage-17",
+    "category": "engagement",
+    "caption": "🗳️ HOT DEBATE in [City] real estate:\n\nWould you rather have a brand-new build with NO character or a 100-year-old home with ALL the character (and quirks)?\n\nThere's only one right answer... and it's yours! Tell me below 👇",
+    "suggestedImageType": "Side-by-side of a brand-new construction home vs. a charming century-old home with character details",
+    "tone": "interactive",
+    "platforms": ["instagram", "facebook", "tiktok"]
+  },
+  {
+    "id": "engage-18",
+    "category": "engagement",
+    "caption": "💬 QUESTION:\n\nOn a scale of 1-10, how important is having a home office in 2026?\n\nI feel like post-pandemic this went from a \"nice to have\" to a MUST for most buyers in [City]. What say you? 👇",
+    "suggestedImageType": "Stylish home office setup with good lighting, a clean desk, and modern decor",
+    "tone": "conversational",
+    "platforms": ["instagram", "facebook", "linkedin"]
+  },
+  {
+    "id": "engage-19",
+    "category": "engagement",
+    "caption": "📊 RENTER VS. OWNER POLL:\n\nWhat's stopping you from buying a home right now?\n\nA) Down payment savings\nB) Interest rates\nC) Finding the right home\nD) I'm happy renting!\nE) Something else (tell me!)\n\nNo shame in ANY answer. Let's talk about it! 👇",
+    "suggestedImageType": "Supportive, approachable graphic with the poll options or a photo of someone reviewing housing options",
+    "tone": "conversational",
+    "platforms": ["instagram", "facebook", "linkedin"]
+  },
+  {
+    "id": "engage-20",
+    "category": "engagement",
+    "caption": "🤔 QUICK QUESTION:\n\nWhat's the ONE room that would make or break a deal for you?\n\n🍳 Kitchen\n🛁 Primary bathroom\n🛋️ Living room\n🛏️ Primary bedroom\n🏗️ Garage/workshop\n\nI already know [City] has STRONG opinions on this one. Let's hear it! 👇",
+    "suggestedImageType": "Collage of beautiful rooms — kitchen, bathroom, living room, bedroom, and garage — with labels",
+    "tone": "interactive",
+    "platforms": ["instagram", "facebook", "tiktok"]
+  },
+  {
+    "id": "engage-21",
+    "category": "engagement",
+    "caption": "💰 GUESS THE PRICE!\n\nThis stunning 4-bed, 3-bath home in [Neighborhood] just hit the market.\n\n✅ Over 2,500 sq ft\n✅ Updated kitchen\n✅ Huge backyard\n✅ 2-car garage\n\nWhat do you think the list price is? Closest guess wins bragging rights! 🏆👇",
+    "suggestedImageType": "Eye-catching exterior photo of the featured listing with a 'Guess the Price' text overlay",
+    "tone": "interactive",
+    "platforms": ["instagram", "facebook", "tiktok"]
+  },
+  {
+    "id": "engage-22",
+    "category": "engagement",
+    "caption": "🏷️ GUESS THE PRICE: [City] Edition!\n\nThis charming bungalow in [Neighborhood]:\n🔑 3 beds, 2 baths\n🔑 Original hardwood floors\n🔑 Wraparound porch\n🔑 Walking distance to downtown\n\nHow much do you think it listed for? Drop your guess! 💰👇\n\nI'll reveal the answer tomorrow! 🤫",
+    "suggestedImageType": "Beautiful photo of a charming bungalow with a 'Guess the Price' banner or price tag graphic",
+    "tone": "fun",
+    "platforms": ["instagram", "facebook", "tiktok"]
+  },
+  {
+    "id": "engage-23",
+    "category": "engagement",
+    "caption": "👀 CAN YOU GUESS THE PRICE?\n\nSwipe to see this INSANE penthouse condo in [City]!\n\n✨ Floor-to-ceiling windows\n✨ Rooftop terrace\n✨ Gourmet kitchen\n✨ 2 parking spots\n\nClosest guess gets a shoutout! No cheating! 😂💰👇",
+    "suggestedImageType": "Luxury condo interior or exterior photos in a carousel format with dramatic 'Guess the Price' intro slide",
+    "tone": "playful",
+    "platforms": ["instagram", "facebook", "tiktok"]
+  },
+  {
+    "id": "engage-24",
+    "category": "engagement",
+    "caption": "💲 GUESS THE PRICE CHALLENGE!\n\nThis fixer-upper in [Neighborhood] needs some love but has GREAT bones:\n\n🏚️ 3 beds, 1 bath\n🏚️ Original 1940s details\n🏚️ Corner lot\n🏚️ Detached garage\n\nWhat would YOU pay for this project? What do you think it listed for? 👇",
+    "suggestedImageType": "Photo of a fixer-upper property with potential, using a 'Before' style overlay with the Guess the Price text",
+    "tone": "interactive",
+    "platforms": ["instagram", "facebook", "tiktok"]
+  },
+  {
+    "id": "engage-25",
+    "category": "engagement",
+    "caption": "🏠💰 GUESS THE PRICE: Luxury Edition!\n\nThis [City] estate just listed and it's UNREAL:\n\n🏊 Infinity pool with city views\n🍷 Wine cellar\n🎬 Home theater\n🚗 4-car garage\n📐 6,000+ sq ft\n\nDrop your best guess below... I promise the real number will surprise you! 👇🤯",
+    "suggestedImageType": "Stunning luxury estate photo showcasing the most impressive feature, with elegant 'Guess the Price' overlay",
+    "tone": "fun",
+    "platforms": ["instagram", "facebook", "tiktok"]
+  },
+  {
+    "id": "engage-26",
+    "category": "engagement",
+    "caption": "💰 GUESS THE PRICE: Starter Home Edition!\n\nPerfect for first-time buyers in [City]:\n\n🏡 2 beds, 1 bath\n🏡 Updated kitchen\n🏡 Fenced yard\n🏡 Quiet street\n\nWhat do you think this one listed for? First-time buyers — is this in your budget? Let me know! 👇",
+    "suggestedImageType": "Cute, well-maintained starter home photo with a friendly 'Guess the Price' graphic overlay",
+    "tone": "conversational",
+    "platforms": ["instagram", "facebook", "tiktok"]
+  },
+  {
+    "id": "engage-27",
+    "category": "engagement",
+    "caption": "📝 FILL IN THE BLANK:\n\nMy dream home absolutely MUST have __________.\n\nI'll go first: a massive kitchen island. I don't make the rules. 🍳✨\n\nNow you! 👇",
+    "suggestedImageType": "Aspirational home feature photo (like a gorgeous kitchen island) with a 'Fill in the Blank' text graphic",
+    "tone": "casual",
+    "platforms": ["instagram", "facebook", "tiktok"]
+  },
+  {
+    "id": "engage-28",
+    "category": "engagement",
+    "caption": "📝 FILL IN THE BLANK:\n\nThe best thing about living in [City] is __________.\n\nI could write a whole essay on this one but I want to hear from YOU! 🏙️❤️👇",
+    "suggestedImageType": "Beautiful cityscape or iconic landmark photo of the local area with fill-in-the-blank text overlay",
+    "tone": "conversational",
+    "platforms": ["instagram", "facebook", "linkedin"]
+  },
+  {
+    "id": "engage-29",
+    "category": "engagement",
+    "caption": "📝 FILL IN THE BLANK:\n\nI knew it was \"the one\" when I walked in and saw __________.\n\nHomeowners — what was that ONE feature that made you say \"this is it\"? 🏡✨👇",
+    "suggestedImageType": "Dreamy home interior shot — maybe a stunning view, fireplace, or open floor plan — with text overlay",
+    "tone": "conversational",
+    "platforms": ["instagram", "facebook", "linkedin"]
+  },
+  {
+    "id": "engage-30",
+    "category": "engagement",
+    "caption": "📝 FILL IN THE BLANK:\n\nThe worst home trend that needs to STOP is __________.\n\nI'm ready for the chaos in this comment section 😂🔥👇",
+    "suggestedImageType": "Collage of polarizing home design trends (barn doors, all-gray everything, live-laugh-love signs) with text overlay",
+    "tone": "playful",
+    "platforms": ["instagram", "facebook", "tiktok"]
+  },
+  {
+    "id": "engage-31",
+    "category": "engagement",
+    "caption": "📝 FILL IN THE BLANK:\n\nIf I could add one room to my house it would be a __________.\n\n🎬 Home theater?\n📚 Library?\n🏋️ Gym?\n🎮 Game room?\n🍷 Wine cellar?\n\nOr something totally different? Tell me! 👇",
+    "suggestedImageType": "Collage of amazing bonus rooms — theater, library, gym, game room — with fill-in-the-blank text",
+    "tone": "fun",
+    "platforms": ["instagram", "facebook", "tiktok"]
+  },
+  {
+    "id": "engage-32",
+    "category": "engagement",
+    "caption": "🔥 HOT TAKE:\n\nOpen floor plans are OVERRATED. Hear me out — sometimes you just want walls. You want a door you can close. You want to cook without the whole house watching.\n\nAm I right or am I about to get roasted? 😂 Sound off! 👇",
+    "suggestedImageType": "Split image contrasting an open floor plan with a more traditional closed layout, with a 'Hot Take' banner",
+    "tone": "playful",
+    "platforms": ["instagram", "facebook", "tiktok"]
+  },
+  {
+    "id": "engage-33",
+    "category": "engagement",
+    "caption": "🔥 CONTROVERSIAL OPINION:\n\nYou do NOT need a massive house to be happy. Some of the happiest homeowners I know in [City] are in under 1,500 sq ft.\n\nAmerica's obsession with square footage needs to stop. There. I said it. 🤷\n\nAgree or disagree? 👇",
+    "suggestedImageType": "Cozy, beautifully designed small home interior that looks warm and inviting, with 'Hot Take' overlay",
+    "tone": "conversational",
+    "platforms": ["instagram", "facebook", "linkedin"]
+  },
+  {
+    "id": "engage-34",
+    "category": "engagement",
+    "caption": "🔥 HOT TAKE:\n\nCarpet in bedrooms is actually FINE and I'm tired of pretending it's not.\n\nIt's warm. It's soft. It's quiet. Fight me. 😤🤣\n\nWho's team carpet and who's team hardwood everywhere? BATTLE IT OUT BELOW 👇",
+    "suggestedImageType": "Cozy bedroom with plush carpet contrasted with a bedroom with hardwood floors, 'Hot Take' banner",
+    "tone": "playful",
+    "platforms": ["instagram", "facebook", "tiktok"]
+  },
+  {
+    "id": "engage-35",
+    "category": "engagement",
+    "caption": "🔥 UNPOPULAR OPINION:\n\nWaiting for the \"perfect\" time to buy a home is the WORST financial strategy. There will always be a reason to wait.\n\nThe best time to buy? When you're financially ready. Period.\n\nHot take or common sense? Tell me 👇",
+    "suggestedImageType": "Bold text graphic with the key quote, real estate market imagery in the background",
+    "tone": "conversational",
+    "platforms": ["instagram", "facebook", "linkedin"]
+  },
+  {
+    "id": "engage-36",
+    "category": "engagement",
+    "caption": "🔥 HOT TAKE:\n\nGray and white kitchens are DONE. We're entering the era of bold colors, warm woods, and actual personality in our homes.\n\nWho's ready to say goodbye to the all-white kitchen? 🎨🙌\n\nOr are you keeping yours? No judgment... okay maybe a little 😂👇",
+    "suggestedImageType": "Side-by-side of a generic gray/white kitchen vs. a bold, colorful kitchen with personality",
+    "tone": "fun",
+    "platforms": ["instagram", "facebook", "tiktok"]
+  },
+  {
+    "id": "engage-37",
+    "category": "engagement",
+    "caption": "🔥 CONTROVERSIAL:\n\nBuying a home purely as an \"investment\" is overrated. Buy a home because you want to LIVE there and love your life.\n\nNot every purchase needs to be a financial chess move. 🏡❤️\n\nAm I wrong? Let me hear it 👇",
+    "suggestedImageType": "Warm, lifestyle photo of a family enjoying their home — emphasis on living, not investing",
+    "tone": "conversational",
+    "platforms": ["instagram", "facebook", "linkedin"]
+  },
+  {
+    "id": "engage-38",
+    "category": "engagement",
+    "caption": "🧠 REAL ESTATE TRIVIA!\n\nWhat percentage of homebuyers found their home through an online search in 2025?\n\nA) 35%\nB) 52%\nC) 71%\nD) 89%\n\nDrop your guess below and I'll reveal the answer tonight! 🏠📱👇",
+    "suggestedImageType": "Trivia-style graphic with the question and multiple choice options, real estate theme",
+    "tone": "interactive",
+    "platforms": ["instagram", "facebook", "linkedin"]
+  },
+  {
+    "id": "engage-39",
+    "category": "engagement",
+    "caption": "🧠 POP QUIZ!\n\nWhat does \"escrow\" actually mean? Wrong answers only... JUST KIDDING. 😂\n\nBut seriously — can you explain it? I bet 90% of people can't explain escrow without Googling.\n\nProve me wrong in the comments! 🎓👇",
+    "suggestedImageType": "Fun quiz-show style graphic with 'Pop Quiz' text and a real estate theme",
+    "tone": "playful",
+    "platforms": ["instagram", "facebook", "tiktok"]
+  },
+  {
+    "id": "engage-40",
+    "category": "engagement",
+    "caption": "🧠 REAL ESTATE TRIVIA:\n\nHow many homes does the average buyer tour before making an offer?\n\nA) 3-5\nB) 6-10\nC) 11-15\nD) 16+\n\nBuyers of [City] — was this true for you? Drop your answer AND how many YOU toured! 🏠🔍👇",
+    "suggestedImageType": "Trivia graphic with the question and answer options, home touring imagery",
+    "tone": "interactive",
+    "platforms": ["instagram", "facebook", "linkedin"]
+  },
+  {
+    "id": "engage-41",
+    "category": "engagement",
+    "caption": "🧠 TRUE OR FALSE:\n\nYou need a 20% down payment to buy a home.\n\nIf you said TRUE... we need to talk! 😅\n\nThis is one of the BIGGEST myths keeping people from homeownership. The truth? There are programs with as little as 0-3.5% down.\n\nDid you know this? 👇",
+    "suggestedImageType": "Bold 'TRUE or FALSE' graphic with the myth statement, educational real estate theme",
+    "tone": "conversational",
+    "platforms": ["instagram", "facebook", "linkedin"]
+  },
+  {
+    "id": "engage-42",
+    "category": "engagement",
+    "caption": "🧠 TRIVIA TIME!\n\nWhat is the most popular day of the week for new home listings to hit the market?\n\nA) Monday\nB) Wednesday\nC) Thursday\nD) Saturday\n\nReal estate agents — NO SPOILING IT! 😂 Let the people guess! 👇",
+    "suggestedImageType": "Calendar-themed trivia graphic with days of the week highlighted and a 'Trivia Time' banner",
+    "tone": "fun",
+    "platforms": ["instagram", "facebook", "tiktok"]
+  },
+  {
+    "id": "engage-43",
+    "category": "engagement",
+    "caption": "📸 CAPTION THIS!\n\nWhen you walk into the open house and see the kitchen of your dreams... 😍🏡\n\n[Photo of someone with a jaw-drop expression in a stunning kitchen]\n\nBest caption wins! Give me your funniest, most creative responses below! 🏆👇",
+    "suggestedImageType": "Humorous photo of someone with an exaggerated amazed expression in a beautiful kitchen",
+    "tone": "playful",
+    "platforms": ["instagram", "facebook", "tiktok"]
+  },
+  {
+    "id": "engage-44",
+    "category": "engagement",
+    "caption": "📸 CAPTION THIS!\n\nWhen the home inspector starts finding \"surprises\" in the attic... 😳🔦\n\nGive me your best caption! Funniest one gets pinned! 📌😂👇",
+    "suggestedImageType": "Funny reaction photo or meme-style image of someone looking shocked or scared, home inspection theme",
+    "tone": "playful",
+    "platforms": ["instagram", "facebook", "tiktok"]
+  },
+  {
+    "id": "engage-45",
+    "category": "engagement",
+    "caption": "📸 CAPTION THIS!\n\nThe look on my face when my buyer's offer gets accepted in [City]'s market... 🎉🏠\n\nDrop the most creative caption below — winner gets a shoutout in my stories! 🏆👇",
+    "suggestedImageType": "Celebratory photo of a realtor or buyer looking ecstatic, possibly jumping or fist pumping",
+    "tone": "fun",
+    "platforms": ["instagram", "facebook", "tiktok"]
+  },
+  {
+    "id": "engage-46",
+    "category": "engagement",
+    "caption": "📸 CAPTION THIS!\n\nWhen you've been house hunting for months and your agent sends you a new listing at 11 PM... 👀📱\n\nI KNOW some of you have been here. Best caption wins! 😂👇",
+    "suggestedImageType": "Funny photo of someone wide-eyed looking at their phone in bed late at night",
+    "tone": "playful",
+    "platforms": ["instagram", "facebook", "tiktok"]
+  },
+  {
+    "id": "engage-47",
+    "category": "engagement",
+    "caption": "💬 SHARE YOUR STORY:\n\nWhat's the most UNEXPECTED thing that happened during your home buying process?\n\nI'll go first: [Name] once had a seller leave a note in the kitchen that made everyone cry at closing. 😭🏡\n\nI want to hear yours! The good, the bad, the hilarious. 👇",
+    "suggestedImageType": "Warm, emotional photo of a home closing moment or keys being handed over",
+    "tone": "conversational",
+    "platforms": ["instagram", "facebook", "linkedin"]
+  },
+  {
+    "id": "engage-48",
+    "category": "engagement",
+    "caption": "🏡 STORY TIME!\n\nHomeowners of [City] — tell me about your first night in your new home.\n\nDid you sleep on the floor because the movers were late? 😂 Order pizza and eat on the countertop? 🍕 Cry happy tears in your empty living room?\n\nI love these stories. Share yours! 👇❤️",
+    "suggestedImageType": "Cozy photo of someone in an empty new home — maybe sitting on the floor with pizza boxes, moving boxes around",
+    "tone": "casual",
+    "platforms": ["instagram", "facebook", "linkedin"]
+  },
+  {
+    "id": "engage-49",
+    "category": "engagement",
+    "caption": "📖 SHARE YOUR STORY:\n\nWhat's one home renovation or project you did that you're MOST proud of?\n\nBefore & after photos are welcome! 📸 I want to see your transformations, [City]! 🔨✨👇",
+    "suggestedImageType": "Stunning before-and-after renovation photo split, with 'Share Your Story' text overlay",
+    "tone": "casual",
+    "platforms": ["instagram", "facebook", "tiktok"]
+  },
+  {
+    "id": "engage-50",
+    "category": "engagement",
+    "caption": "💭 SHARE YOUR STORY:\n\nRenters who became homeowners — what was the moment you decided \"I'm done renting\"?\n\nWas it a rent increase? 📈 A landlord nightmare? 😩 Just wanting something that's YOURS?\n\nYour story might inspire someone else who's on the fence. Share it! 👇🏠",
+    "suggestedImageType": "Empowering photo of someone holding keys to their first home, emotional and genuine",
+    "tone": "conversational",
+    "platforms": ["instagram", "facebook", "linkedin"]
+  },
+  {
+    "id": "engage-51",
+    "category": "engagement",
+    "caption": "😂 SHARE YOUR STORY:\n\nWhat's the WEIRDEST thing you've ever found in a home during a showing or after moving in?\n\nI once had a client find a secret room behind a bookshelf. I wish I was kidding. 🤯📚\n\nTop that! Your craziest stories below 👇",
+    "suggestedImageType": "Mysterious or quirky home photo — maybe a hidden door, unusual room feature, or odd discovery",
+    "tone": "playful",
+    "platforms": ["instagram", "facebook", "tiktok"]
+  },
+  {
+    "id": "engage-52",
+    "category": "engagement",
+    "caption": "❤️ SHARE YOUR STORY:\n\nWhat does \"home\" mean to you? Not the building — the FEELING.\n\nFor me, it's Sunday mornings with coffee and nowhere to be. ☕🌅\n\nI want to hear what home feels like for you. Drop it below. This is going to be a beautiful thread. 🏡💛👇",
+    "suggestedImageType": "Warm, lifestyle photo evoking the feeling of home — soft light, cozy setting, peaceful moment",
+    "tone": "conversational",
+    "platforms": ["instagram", "facebook", "linkedin"]
+  }
+]

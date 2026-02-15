@@ -1,0 +1,442 @@
+[
+  {
+    "id": "listing-1",
+    "category": "listing",
+    "caption": "🏡 JUST LISTED in [Neighborhood]!\n\n[Address]\n💰 [Price]\n🛏 [Beds] Beds | 🛁 [Baths] Baths | 📐 [SqFt] SqFt\n\nThis stunning home features [Features] and is perfectly situated in one of [City]'s most sought-after neighborhoods.\n\nSchedule your private showing today before this one's gone!\n\n📞 Contact [Name] | [Brokerage]\n\n#JustListed #RealEstate #[City]Homes #NewListing #DreamHome",
+    "suggestedImageType": "High-quality front exterior photo of the home with clear sky and manicured landscaping",
+    "tone": "professional",
+    "platforms": ["instagram", "facebook", "linkedin"]
+  },
+  {
+    "id": "listing-2",
+    "category": "listing",
+    "caption": "🔥 HOT NEW LISTING ALERT 🔥\n\n[Address], [City]\n[Beds] BD / [Baths] BA / [SqFt] SF\nListed at [Price]\n\nStop scrolling — this is the one! [Features] and a location you can't beat in [Neighborhood].\n\nDM me for details! 📩\n\n#JustListed #HomeForSale #[City]RealEstate #HouseHunting",
+    "suggestedImageType": "Carousel of bright interior photos showcasing kitchen, living room, and primary bedroom",
+    "tone": "energetic",
+    "platforms": ["instagram", "tiktok"]
+  },
+  {
+    "id": "listing-3",
+    "category": "listing",
+    "caption": "✨ New to Market ✨\n\nWelcome to [Address] — a beautifully maintained [Beds]-bedroom, [Baths]-bathroom home nestled in the heart of [Neighborhood].\n\nOffered at [Price], this [SqFt] sq ft residence boasts [Features]. Every detail has been thoughtfully curated for comfortable, elegant living.\n\nFor a private viewing, please reach out to [Name] at [Brokerage].\n\n#LuxuryRealEstate #JustListed #[City]Luxury #FineLiving #ExclusiveListing",
+    "suggestedImageType": "Twilight exterior photo with interior lights glowing warmly, professionally staged",
+    "tone": "luxury",
+    "platforms": ["instagram", "facebook", "linkedin"]
+  },
+  {
+    "id": "listing-4",
+    "category": "listing",
+    "caption": "🎉 Just listed and I'm SO excited about this one!\n\nIf you've been waiting for the right home in [Neighborhood], your wait might be over. [Address] just hit the market at [Price].\n\n🛏 [Beds] bedrooms\n🛁 [Baths] bathrooms\n📐 [SqFt] square feet\n✅ [Features]\n\nFirst-time buyers — this one checks ALL the boxes. Let's chat!\n\n[Name] | [Brokerage]\n\n#FirstTimeHomeBuyer #JustListed #[City]Homes #StarterHome #HomeOwnership",
+    "suggestedImageType": "Warm, inviting interior shot of living space with natural light streaming in",
+    "tone": "first-time-buyer-friendly",
+    "platforms": ["instagram", "facebook"]
+  },
+  {
+    "id": "listing-5",
+    "category": "listing",
+    "caption": "Just dropped a new listing 📍 [Address], [City]\n\n[Beds] beds • [Baths] baths • [SqFt] sqft • [Price]\n\n[Features]\n\nWho wants a tour? 👀\n\n#JustListed #[City] #RealEstate #NewListing",
+    "suggestedImageType": "Reel or TikTok-style walkthrough thumbnail with bold text overlay",
+    "tone": "casual",
+    "platforms": ["instagram", "tiktok"]
+  },
+  {
+    "id": "listing-6",
+    "category": "listing",
+    "caption": "📣 NEW LISTING ANNOUNCEMENT\n\nI'm thrilled to present [Address] to the market.\n\nProperty Highlights:\n🏠 [Beds] Bedrooms | [Baths] Bathrooms\n📐 [SqFt] Square Feet\n💲 Listed at [Price]\n📍 [Neighborhood], [City]\n\nKey Features: [Features]\n\nThis property represents exceptional value in today's market. Whether you're looking for your forever home or a strategic investment, this is one you don't want to miss.\n\nReach out to discuss this opportunity.\n\n[Name] | [Brokerage]\n\n#RealEstate #JustListed #PropertyForSale #[City]RealEstate #Investment",
+    "suggestedImageType": "Professional photo collage with exterior and top 3 interior highlights",
+    "tone": "professional",
+    "platforms": ["facebook", "linkedin"]
+  },
+  {
+    "id": "listing-7",
+    "category": "listing",
+    "caption": "🏠 NEW ON THE MARKET\n\n[Address], [Neighborhood]\n\nAsking [Price] for this gorgeous [Beds]BD/[Baths]BA gem with [SqFt] sqft of living space.\n\nWhat makes it special? [Features]\n\nThis home is giving everything 💫\n\nLink in bio for full details or DM me!\n\n#JustListed #HomeSweetHome #[City]Homes",
+    "suggestedImageType": "Eye-catching kitchen or bathroom renovation photo as the hero image",
+    "tone": "casual",
+    "platforms": ["instagram", "tiktok"]
+  },
+  {
+    "id": "listing-8",
+    "category": "listing",
+    "caption": "Introducing an extraordinary residence at [Address] in the prestigious [Neighborhood] enclave of [City].\n\n🏛 [Beds] Bedrooms | [Baths] Baths | [SqFt] SqFt\n💎 Offered at [Price]\n\nDistinguished by [Features], this estate embodies the pinnacle of refined living. Every room has been designed to impress, from the grand foyer to the resort-style outdoor entertaining spaces.\n\nExclusive showings available by appointment.\n\n[Name] | [Brokerage]\n\n#LuxuryListing #EstateForSale #[City]Luxury #MansionForSale #LuxuryLifestyle",
+    "suggestedImageType": "Aerial drone shot of the property and grounds, or grand foyer entrance photo",
+    "tone": "luxury",
+    "platforms": ["instagram", "facebook", "linkedin"]
+  },
+  {
+    "id": "listing-9",
+    "category": "listing",
+    "caption": "POV: You just found your dream home 😍\n\n📍 [Address], [City]\n💰 [Price]\n🛏 [Beds] BD | 🛁 [Baths] BA | 📐 [SqFt] SF\n\n[Features]\n\nTag someone who needs to see this! 👇\n\n#JustListed #DreamHome #HouseGoals #[City]RealEstate",
+    "suggestedImageType": "Vertical video thumbnail or reel-style image with trendy text overlay",
+    "tone": "energetic",
+    "platforms": ["instagram", "tiktok"]
+  },
+  {
+    "id": "listing-10",
+    "category": "listing",
+    "caption": "🏡 Thinking about buying your first home? This could be it!\n\n[Address] in [Neighborhood] just listed at [Price] — and it's perfect for first-time buyers.\n\nHere's what you get:\n✅ [Beds] bedrooms, [Baths] baths\n✅ [SqFt] sq ft of living space\n✅ [Features]\n\nNot sure where to start with the home buying process? I'm here to walk you through every step. No question is too small!\n\n📱 DM me or call to set up a showing.\n\n[Name] | [Brokerage]\n\n#FirstTimeHomeBuyer #JustListed #HomeOwnershipGoals #[City]Homes #RealEstateTips",
+    "suggestedImageType": "Bright, welcoming photo of the home's front entrance or cozy living room",
+    "tone": "first-time-buyer-friendly",
+    "platforms": ["instagram", "facebook"]
+  },
+  {
+    "id": "listing-11",
+    "category": "listing",
+    "caption": "Another one! 🏠🔑\n\nJust listed [Address] in [City].\n\n[Price] | [Beds]B/[Baths]B | [SqFt] SF\n\n[Features]\n\nSeriously, this one won't last. Hit me up! 📲\n\n#JustListed #NewListing #[City] #Realtor",
+    "suggestedImageType": "Quick snap of the front of the home with JUST LISTED sign visible",
+    "tone": "casual",
+    "platforms": ["instagram", "tiktok"]
+  },
+  {
+    "id": "listing-12",
+    "category": "listing",
+    "caption": "🚨 JUST LISTED 🚨\n\nI am proud to bring this incredible [Beds]-bedroom, [Baths]-bath home at [Address] to market in [Neighborhood], [City].\n\nAt [Price], this [SqFt] sqft property offers unmatched value. Highlights include [Features].\n\nIn today's competitive market, well-priced homes in desirable neighborhoods move quickly. If you or someone you know is in the market, let's connect.\n\n📧 [Name]\n🏢 [Brokerage]\n\n#JustListed #RealEstateAgent #[City]Properties #HomeBuyers #PropertyListing",
+    "suggestedImageType": "Split image: exterior on left, best interior feature on right, with listing details overlaid",
+    "tone": "professional",
+    "platforms": ["facebook", "linkedin"]
+  },
+  {
+    "id": "listing-13",
+    "category": "listing",
+    "caption": "💰 PRICE IMPROVEMENT 💰\n\n[Address], [City] is now offered at [Price]!\n\n🛏 [Beds] Beds | 🛁 [Baths] Baths | 📐 [SqFt] SqFt\n📍 [Neighborhood]\n\nThe sellers are motivated and this home is priced to sell. Featuring [Features], this is an incredible opportunity you don't want to miss.\n\nCall [Name] at [Brokerage] today to schedule your private tour.\n\n#PriceReduced #PriceDrop #[City]RealEstate #MotivatedSeller #HomeForSale",
+    "suggestedImageType": "Exterior photo with a bold 'PRICE REDUCED' banner graphic overlay",
+    "tone": "professional",
+    "platforms": ["instagram", "facebook", "linkedin"]
+  },
+  {
+    "id": "listing-14",
+    "category": "listing",
+    "caption": "🚨 PRICE DROP ALERT 🚨\n\n[Address] just got even better — now listed at [Price]! That's [Amount] less than original asking.\n\n[Beds] beds • [Baths] baths • [SqFt] sqft\n[Features]\n\nAt this price, it won't sit long. Who's ready to make a move? 🏃‍♂️💨\n\n#PriceDrop #DealAlert #[City]Homes #RealEstate",
+    "suggestedImageType": "Before/after price comparison graphic with the home's best photo",
+    "tone": "energetic",
+    "platforms": ["instagram", "tiktok"]
+  },
+  {
+    "id": "listing-15",
+    "category": "listing",
+    "caption": "Good news for buyers! 🎉\n\n[Address] in [Neighborhood] just had a price adjustment and is now listed at [Price].\n\nThis [Beds] bed, [Baths] bath home with [SqFt] sqft was already a great value — and now it's even more attainable. [Features]\n\nIf you've been on the fence about homeownership, this might be the nudge you needed. Let's talk about what this could look like for you!\n\n[Name] | [Brokerage]\n\n#PriceReduced #FirstTimeHomeBuyer #AffordableHomes #[City]RealEstate",
+    "suggestedImageType": "Welcoming interior photo with a warm, approachable feel and price reduction callout",
+    "tone": "first-time-buyer-friendly",
+    "platforms": ["instagram", "facebook"]
+  },
+  {
+    "id": "listing-16",
+    "category": "listing",
+    "caption": "📉 NEW PRICE on [Address]!\n\nNow asking [Price] for this [Beds]BD/[Baths]BA beauty in [Neighborhood], [City].\n\n[SqFt] sqft with [Features].\n\nThe value here is unreal. DM me for a showing! 🏠\n\n#PriceReduced #[City] #HomeBuyers #StealOfADeal",
+    "suggestedImageType": "Hero photo of the home's best room with a 'NEW PRICE' sticker graphic",
+    "tone": "casual",
+    "platforms": ["instagram", "tiktok"]
+  },
+  {
+    "id": "listing-17",
+    "category": "listing",
+    "caption": "An exceptional value has emerged.\n\n[Address] in the coveted [Neighborhood] community has been adjusted to [Price] — presenting a rare opportunity to acquire a distinguished [Beds]-bedroom, [Baths]-bath residence encompassing [SqFt] square feet.\n\nNotable appointments include [Features].\n\nDiscerning buyers will recognize the significance of this price adjustment in the current market.\n\nPrivate showings available through [Name] at [Brokerage].\n\n#LuxuryRealEstate #PriceAdjustment #[City]Luxury #ExceptionalValue",
+    "suggestedImageType": "Magazine-quality interior photo of the most luxurious room in the home",
+    "tone": "luxury",
+    "platforms": ["instagram", "facebook", "linkedin"]
+  },
+  {
+    "id": "listing-18",
+    "category": "listing",
+    "caption": "⚡ JUST REDUCED ⚡\n\n[Address], [City]\nWas asking more — NOW [Price]\n[Beds] BR | [Baths] BA | [SqFt] SF\n\nFeatures: [Features]\n\nSomeone is going to get a GREAT deal on this home. Will it be you?\n\nContact [Name] at [Brokerage] before it's gone!\n\n#Reduced #HomeForSale #[City]Properties #GoodDeal #RealEstateDeals",
+    "suggestedImageType": "Attention-grabbing graphic with crossed-out old price and new price highlighted",
+    "tone": "energetic",
+    "platforms": ["instagram", "facebook"]
+  },
+  {
+    "id": "listing-19",
+    "category": "listing",
+    "caption": "Price update on this beautiful home in [Neighborhood] 👇\n\n📍 [Address], [City]\n💲 Now [Price]\n🛏 [Beds] beds | 🛁 [Baths] baths | 📐 [SqFt] sqft\n\n[Features]\n\nThe market is talking and the sellers are listening. This is a solid opportunity for any buyer looking in [City].\n\nLet's schedule a tour — reach out anytime.\n\n[Name] | [Brokerage]\n\n#PriceReduction #[City]Homes #RealEstateUpdate #HomeShopping",
+    "suggestedImageType": "Clean exterior photo with subtle price reduction graphic in corner",
+    "tone": "professional",
+    "platforms": ["facebook", "linkedin"]
+  },
+  {
+    "id": "listing-20",
+    "category": "listing",
+    "caption": "Heads up, deal hunters! 💸\n\n[Address] in [City] just dropped to [Price]. That's a price cut of [Amount]!\n\n[Beds]BD | [Baths]BA | [SqFt]SF\n[Features]\n\nSave this post and share it with someone house hunting! 🏡\n\n#PriceDrop #[City]RealEstate #HomeBuying #DealOfTheDay",
+    "suggestedImageType": "Engaging social graphic with the home photo and savings amount highlighted",
+    "tone": "casual",
+    "platforms": ["instagram", "tiktok", "facebook"]
+  },
+  {
+    "id": "listing-21",
+    "category": "listing",
+    "caption": "🏡 OPEN HOUSE this [Day]!\n\n📍 [Address], [Neighborhood]\n🕐 [Time]\n💰 [Price]\n🛏 [Beds] Beds | 🛁 [Baths] Baths | 📐 [SqFt] SqFt\n\nCome see this beautiful home in person! Featuring [Features], this property truly shines when you walk through the door.\n\nNo appointment needed — just stop by!\n\n[Name] | [Brokerage]\n\n#OpenHouse #[City]RealEstate #HomeTour #WeekendOpenHouse #ComeOnIn",
+    "suggestedImageType": "Exterior photo with an OPEN HOUSE graphic overlay showing date and time",
+    "tone": "professional",
+    "platforms": ["instagram", "facebook"]
+  },
+  {
+    "id": "listing-22",
+    "category": "listing",
+    "caption": "🚪 Doors are OPEN this [Day]! 🚪\n\n[Address], [City]\n⏰ [Time]\n\n[Price] | [Beds]B/[Baths]B | [SqFt] SF\n\nSwing by and see why everyone's talking about this one. [Features] — you have to see it to believe it!\n\nBring your friends, bring your family, bring your offer 😉\n\n#OpenHouse #[City]Homes #HouseHunting #WeekendPlans",
+    "suggestedImageType": "Fun, inviting photo of the front door wide open with a welcome mat",
+    "tone": "energetic",
+    "platforms": ["instagram", "tiktok"]
+  },
+  {
+    "id": "listing-23",
+    "category": "listing",
+    "caption": "You're invited to an exclusive open house event.\n\n🏛 [Address]\n📍 [Neighborhood], [City]\n📅 [Day] | [Time]\n💎 Offered at [Price]\n\n[Beds] bedrooms | [Baths] bathrooms | [SqFt] square feet of impeccable living space featuring [Features].\n\nJoin us for light refreshments as you tour this exceptional property. This is luxury living at its finest.\n\nRSVP to [Name] at [Brokerage].\n\n#LuxuryOpenHouse #ExclusiveViewing #[City]Luxury #EstateLiving",
+    "suggestedImageType": "Elegant interior photo with event-style graphic overlay, champagne or refreshment styling",
+    "tone": "luxury",
+    "platforms": ["instagram", "facebook", "linkedin"]
+  },
+  {
+    "id": "listing-24",
+    "category": "listing",
+    "caption": "🏠 OPEN HOUSE WEEKEND! 🏠\n\nNever been to an open house before? No worries! Come check out [Address] in [Neighborhood] this [Day] from [Time]. It's free, casual, and a great way to explore what's on the market.\n\n💰 [Price]\n🛏 [Beds] beds | 🛁 [Baths] baths | 📐 [SqFt] sqft\n✨ [Features]\n\nI'll be there to answer any questions — whether you're ready to buy or just getting started on your journey.\n\n[Name] | [Brokerage]\n\n#OpenHouse #FirstTimeBuyer #[City]Homes #HomeBuyingJourney",
+    "suggestedImageType": "Friendly, bright photo of the living room or kitchen, warm and inviting atmosphere",
+    "tone": "first-time-buyer-friendly",
+    "platforms": ["instagram", "facebook"]
+  },
+  {
+    "id": "listing-25",
+    "category": "listing",
+    "caption": "Open house this weekend! 👀\n\n📍 [Address], [City]\n📅 [Day], [Time]\n💲 [Price]\n\n[Beds] beds, [Baths] baths, [SqFt] sqft\n[Features]\n\nCome through and check it out! 🏡\n\n#OpenHouse #[City] #HomeForSale #RealEstate",
+    "suggestedImageType": "Casual, well-lit photo of the home's best feature or curb appeal shot",
+    "tone": "casual",
+    "platforms": ["instagram", "tiktok", "facebook"]
+  },
+  {
+    "id": "listing-26",
+    "category": "listing",
+    "caption": "📢 OPEN HOUSE ALERT\n\nJoin me this [Day] from [Time] at [Address] in [Neighborhood], [City].\n\nThis [Beds]-bed, [Baths]-bath home at [Price] is a must-see. With [SqFt] sq ft of thoughtfully designed space and [Features], this property represents excellent value in one of the area's top communities.\n\nI look forward to welcoming you!\n\n[Name] | [Brokerage]\n\n#OpenHouse #RealEstate #PropertyTour #[City]Properties #HomeBuyers",
+    "suggestedImageType": "Professional exterior shot with open house details in a clean graphic banner",
+    "tone": "professional",
+    "platforms": ["facebook", "linkedin"]
+  },
+  {
+    "id": "listing-27",
+    "category": "listing",
+    "caption": "This [Day] ➡️ [Time] ➡️ [Address] 🏠\n\nOPEN HOUSE in [City]!\n\n[Price] for [Beds]BD/[Baths]BA, [SqFt]SF\n\n[Features]\n\nPull up and bring that pre-approval! 📋✨\n\n#OpenHouse #HouseTour #[City]RealEstate #LetsGo",
+    "suggestedImageType": "Story or reel-style image with bold arrows and text pointing to the home",
+    "tone": "energetic",
+    "platforms": ["instagram", "tiktok"]
+  },
+  {
+    "id": "listing-28",
+    "category": "listing",
+    "caption": "👋 You're invited! Open House this [Day]\n\n[Address], [Neighborhood], [City]\n🕐 [Time]\n\nListed at [Price] — this [Beds] bed, [Baths] bath, [SqFt] sqft home features [Features].\n\nWhether you're a first-time buyer, move-up buyer, or investor, this home has something for everyone. Walk through at your own pace and imagine making it yours.\n\nSee you there!\n\n[Name] | [Brokerage]\n\n#OpenHouse #WelcomeHome #[City]Homes #RealEstateLife",
+    "suggestedImageType": "Collage of interior photos with date/time details in an inviting layout",
+    "tone": "casual",
+    "platforms": ["instagram", "facebook"]
+  },
+  {
+    "id": "listing-29",
+    "category": "listing",
+    "caption": "🎉 JUST SOLD! 🎉\n\n[Address], [City] has officially closed!\n\nCongratulations to my amazing buyers on finding their dream home in [Neighborhood]. It was a pleasure guiding you through every step of the process.\n\n🏠 [Beds] Beds | [Baths] Baths | [SqFt] SqFt\n💰 Sold at [Price]\n\nThinking of buying or selling? Let's make your real estate goals a reality.\n\n[Name] | [Brokerage]\n\n#JustSold #Sold #ClosingDay #[City]RealEstate #HappyBuyers #Realtor",
+    "suggestedImageType": "Photo of happy buyers holding keys in front of their new home or SOLD sign",
+    "tone": "professional",
+    "platforms": ["instagram", "facebook", "linkedin"]
+  },
+  {
+    "id": "listing-30",
+    "category": "listing",
+    "caption": "SOLD! 🔑🏡\n\n[Address] is officially off the market!\n\nAnother incredible home in [Neighborhood], [City] — closed and done.\n\nSold at [Price] | [Beds]BD/[Baths]BA | [SqFt] SF\n\nTo my clients: Welcome home! It's been an honor. 🥂\n\nTo everyone else: Your turn could be next! Let's chat.\n\n#JustSold #Closed #[City]Homes #RealEstateAgent #WelcomeHome",
+    "suggestedImageType": "SOLD sign in front of the home or agent with clients at closing table",
+    "tone": "casual",
+    "platforms": ["instagram", "facebook"]
+  },
+  {
+    "id": "listing-31",
+    "category": "listing",
+    "caption": "✅ CLOSED\n\n[Address], [Neighborhood]\n[Beds] BD | [Baths] BA | [SqFt] SF\nSold at [Price]\n\nFrom first showing to closing day, this journey was nothing short of incredible. My sellers trusted me to position their home for success, and the market responded.\n\nResults speak louder than words. If you're considering selling your home in [City], let's have a conversation about your goals.\n\n[Name] | [Brokerage]\n\n#JustSold #SoldByMe #ListingAgent #[City]RealEstate #ResultsDriven",
+    "suggestedImageType": "Professional shot of the home's exterior with a SOLD overlay graphic",
+    "tone": "professional",
+    "platforms": ["instagram", "facebook", "linkedin"]
+  },
+  {
+    "id": "listing-32",
+    "category": "listing",
+    "caption": "Another one SOLD! 💥🔑\n\n📍 [Address], [City]\n💰 [Price]\n🛏 [Beds] | 🛁 [Baths] | 📐 [SqFt]\n\nMy clients came, they saw, they conquered the [City] housing market! 🏆\n\nReady to be next? Let's gooooo! 🚀\n\n#Sold #JustSold #ClosingDay #[City] #WinnerWinner",
+    "suggestedImageType": "Celebratory photo — champagne, keys, or excited buyers with sold sign",
+    "tone": "energetic",
+    "platforms": ["instagram", "tiktok"]
+  },
+  {
+    "id": "listing-33",
+    "category": "listing",
+    "caption": "Sold and settled ✨\n\nIt was a privilege to represent the sale of [Address] — a remarkable [Beds]-bedroom, [Baths]-bath estate in [Neighborhood], [City].\n\nClosed at [Price] | [SqFt] SqFt\n\nFeaturing [Features], this property attracted discerning buyers who recognized its extraordinary value.\n\nFor sellers seeking exceptional representation in the luxury market, I invite you to connect with me.\n\n[Name] | [Brokerage]\n\n#LuxurySold #JustSold #[City]Luxury #LuxuryRealEstate #HighEndHomes",
+    "suggestedImageType": "Elegant final photo of the property exterior or signature room, with SOLD stamp",
+    "tone": "luxury",
+    "platforms": ["instagram", "facebook", "linkedin"]
+  },
+  {
+    "id": "listing-34",
+    "category": "listing",
+    "caption": "🏡 Another happy homeowner in [City]!\n\n[Address] is officially SOLD at [Price]!\n\nHelping first-time buyers navigate the process from pre-approval to closing is my favorite thing to do. Watching my clients get those keys? Priceless. 🔑❤️\n\nIf homeownership is your goal, I'd love to help you get there too.\n\n[Name] | [Brokerage]\n\n#JustSold #FirstTimeHomeBuyer #NewHomeowner #[City]RealEstate #DreamsComeTrue",
+    "suggestedImageType": "Joyful photo of first-time buyers with keys, SOLD sign, or at closing table",
+    "tone": "first-time-buyer-friendly",
+    "platforms": ["instagram", "facebook"]
+  },
+  {
+    "id": "listing-35",
+    "category": "listing",
+    "caption": "S O L D 🏠✨\n\n[Address], [City]\n[Price] | [Beds]B/[Baths]B\n\nFrom listing to SOLD in record time! This [Neighborhood] gem didn't last long. Grateful for another smooth transaction.\n\nBuying or selling in [City]? Your search for the right agent ends here.\n\n[Name] | [Brokerage]\n\n#Sold #JustSold #[City]Realtor #RealEstateLife",
+    "suggestedImageType": "Clean photo of the home with a stylish SOLD graphic treatment",
+    "tone": "casual",
+    "platforms": ["instagram", "tiktok"]
+  },
+  {
+    "id": "listing-36",
+    "category": "listing",
+    "caption": "📊 MARKET PROOF — JUST SOLD\n\n[Address], [Neighborhood], [City]\n\n✅ [Beds] Bedrooms, [Baths] Bathrooms, [SqFt] SqFt\n✅ Listed and sold at [Price]\n✅ Strategic pricing + expert marketing = results\n\nIn a market where strategy matters more than ever, having the right agent makes all the difference. This sale is proof of what's possible with the right approach.\n\nLet's discuss how I can deliver similar results for you.\n\n[Name] | [Brokerage]\n\n#JustSold #RealEstateExpert #[City]Market #SoldListing #SellerAgent",
+    "suggestedImageType": "Professional graphic showing the home with key sale stats and SOLD badge",
+    "tone": "professional",
+    "platforms": ["linkedin", "facebook"]
+  },
+  {
+    "id": "listing-37",
+    "category": "listing",
+    "caption": "Handed over the keys today 🔑❤️\n\n[Address] in [Neighborhood] is SOLD!\n\n[Beds] beds | [Baths] baths | [SqFt] sqft | [Price]\n\nEvery transaction is a story, and this one had a happy ending. On to the next chapter!\n\n#JustSold #KeyHandoff #[City]Homes #Grateful #RealEstate",
+    "suggestedImageType": "Close-up of keys being handed over or new homeowner at their front door",
+    "tone": "casual",
+    "platforms": ["instagram", "facebook"]
+  },
+  {
+    "id": "listing-38",
+    "category": "listing",
+    "caption": "SOLD SOLD SOLD 🔥\n\n[Address], [City] ✅\n[Price] ✅\n[Beds]BD/[Baths]BA ✅\nHappy clients ✅\n\nAnother W in the books! 🏆 Who's next?\n\n#Sold #Winning #[City]RealEstate #AgentLife #JustSold",
+    "suggestedImageType": "High-energy celebration photo or graphic with the home and bold SOLD text",
+    "tone": "energetic",
+    "platforms": ["instagram", "tiktok"]
+  },
+  {
+    "id": "listing-39",
+    "category": "listing",
+    "caption": "🔜 COMING SOON to [Neighborhood], [City]!\n\n[Beds] Beds | [Baths] Baths | [SqFt] SqFt\nPrice: [Price]\n\nA stunning home featuring [Features] is about to hit the market. Get on my VIP list to be the first to know when it goes live!\n\n📩 DM me or comment \"INFO\" below.\n\n[Name] | [Brokerage]\n\n#ComingSoon #PreMarket #[City]RealEstate #SneakPeek #GetReadyToMove",
+    "suggestedImageType": "Teaser photo with a blurred or partially revealed image of the home with COMING SOON overlay",
+    "tone": "professional",
+    "platforms": ["instagram", "facebook"]
+  },
+  {
+    "id": "listing-40",
+    "category": "listing",
+    "caption": "Something special is coming to [Neighborhood] 👀\n\n📍 [City]\n🛏 [Beds] beds | 🛁 [Baths] baths | 📐 [SqFt] sqft\n💰 [Price]\n\n[Features]\n\nThis one isn't on the MLS yet. Want early access? You know what to do 📩\n\n#ComingSoon #OffMarket #[City]Homes #SneakPeek #ExclusiveAccess",
+    "suggestedImageType": "Mysterious teaser image — close-up of a unique home feature without revealing the full property",
+    "tone": "casual",
+    "platforms": ["instagram", "tiktok"]
+  },
+  {
+    "id": "listing-41",
+    "category": "listing",
+    "caption": "✨ COMING SOON ✨\n\nA rare offering in [Neighborhood], [City] is preparing to make its debut.\n\n🏛 [Beds] Bedrooms | [Baths] Bathrooms | [SqFt] Square Feet\n💎 Anticipated at [Price]\n\nDistinguished by [Features], this extraordinary residence will be available for private preview by appointment only.\n\nRegister your interest with [Name] at [Brokerage] for priority access.\n\n#ComingSoon #LuxuryPreview #[City]Luxury #ExclusiveListing #PreMarket",
+    "suggestedImageType": "Artistic, moody teaser photo — perhaps a detail shot of luxury finishes with elegant typography",
+    "tone": "luxury",
+    "platforms": ["instagram", "facebook", "linkedin"]
+  },
+  {
+    "id": "listing-42",
+    "category": "listing",
+    "caption": "🔥 COMING SOON 🔥\n\nI've got a new listing about to drop in [Neighborhood], [City] and trust me — you're going to want to see this one.\n\n[Beds]BD | [Baths]BA | [SqFt]SF | [Price]\n\n[Features]\n\nWant first dibs? Comment 🏡 below and I'll send you details before it hits the market!\n\n#ComingSoon #[City] #NewListingAlert #StayTuned #HouseHunters",
+    "suggestedImageType": "Countdown-style graphic or hype-building teaser with bold COMING SOON text",
+    "tone": "energetic",
+    "platforms": ["instagram", "tiktok", "facebook"]
+  },
+  {
+    "id": "listing-43",
+    "category": "listing",
+    "caption": "Psst... a great home is about to hit the market in [Neighborhood] 🤫\n\nIf you're a first-time buyer looking in [City], you're going to want to know about this one.\n\n🛏 [Beds] beds | 🛁 [Baths] baths | 📐 [SqFt] sqft\n💰 Expected at [Price]\n✨ [Features]\n\nI'm building an early interest list. DM me to get on it — no pressure, no commitment. Just first access!\n\n[Name] | [Brokerage]\n\n#ComingSoon #FirstTimeBuyer #[City]Homes #HomeBuyingTips #EarlyAccess",
+    "suggestedImageType": "Soft, warm teaser image of a welcoming home feature with friendly COMING SOON text",
+    "tone": "first-time-buyer-friendly",
+    "platforms": ["instagram", "facebook"]
+  },
+  {
+    "id": "listing-44",
+    "category": "listing",
+    "caption": "🔒 UNDER CONTRACT 🔒\n\n[Address] in [Neighborhood], [City] is officially under contract!\n\n🛏 [Beds] Beds | 🛁 [Baths] Baths | 📐 [SqFt] SqFt\n💰 [Price]\n\nThis property attracted strong interest and we secured a contract quickly. Grateful for the trust my clients placed in me to negotiate the best outcome.\n\nThinking about buying or selling in [City]? Let's connect.\n\n[Name] | [Brokerage]\n\n#UnderContract #Pending #[City]RealEstate #RealEstateAgent #InContract",
+    "suggestedImageType": "Home exterior with a professional UNDER CONTRACT banner overlay",
+    "tone": "professional",
+    "platforms": ["instagram", "facebook", "linkedin"]
+  },
+  {
+    "id": "listing-45",
+    "category": "listing",
+    "caption": "And just like that... UNDER CONTRACT! 🤝🏠\n\n[Address], [City]\n[Price] | [Beds]BD/[Baths]BA | [SqFt]SF\n\nThis [Neighborhood] beauty didn't last long! Congrats to my clients — we moved fast and got it done. 💪\n\nThe market waits for no one. If you're ready, I'm ready!\n\n#UnderContract #Pending #[City]Homes #FastMover #RealEstate",
+    "suggestedImageType": "Exciting graphic with the home photo and a bold UNDER CONTRACT stamp",
+    "tone": "energetic",
+    "platforms": ["instagram", "tiktok"]
+  },
+  {
+    "id": "listing-46",
+    "category": "listing",
+    "caption": "This one's spoken for! 🏡✍️\n\n[Address] in [Neighborhood] is under contract at [Price].\n\n[Beds] beds • [Baths] baths • [SqFt] sqft\n\nLoved working with my buyers on this one. Now we wait for closing day! 🤞\n\nMore great homes coming — follow along for the latest listings in [City].\n\n[Name] | [Brokerage]\n\n#UnderContract #[City]RealEstate #AlmostHome #HouseHunting",
+    "suggestedImageType": "Home photo with a subtle UNDER CONTRACT ribbon or badge in the corner",
+    "tone": "casual",
+    "platforms": ["instagram", "facebook"]
+  },
+  {
+    "id": "listing-47",
+    "category": "listing",
+    "caption": "📝 UNDER CONTRACT\n\n[Address], [City] — [Price]\n[Beds] BD | [Baths] BA | [SqFt] SF\n\nAnother incredible property in [Neighborhood] is moving toward closing. This home featuring [Features] generated significant interest, and I'm proud to have represented my clients through a successful negotiation.\n\nIf you missed out on this one, don't worry — I have more opportunities coming. Let's find your perfect home.\n\n[Name] | [Brokerage]\n\n#UnderContract #Pending #[City]Market #RealEstateLife #DealMaker",
+    "suggestedImageType": "Professional exterior photo with UNDER CONTRACT text overlay and listing details",
+    "tone": "professional",
+    "platforms": ["facebook", "linkedin"]
+  },
+  {
+    "id": "listing-48",
+    "category": "listing",
+    "caption": "Contract signed! ✅\n\nSo excited for my buyers who just went under contract on [Address] in [Neighborhood]!\n\n[Price] | [Beds]BD | [Baths]BA | [SqFt]SF\n\nBuying your first home can feel overwhelming, but with the right guidance, it doesn't have to be. From house hunting to home inspection to closing — I'm with you every step.\n\nReady to start your journey? Let's talk! 💬\n\n[Name] | [Brokerage]\n\n#UnderContract #FirstTimeHomeBuyer #[City]Homes #HomeBuyingProcess #ExcitingTimes",
+    "suggestedImageType": "Warm photo of happy buyers or a milestone celebration moment",
+    "tone": "first-time-buyer-friendly",
+    "platforms": ["instagram", "facebook"]
+  },
+  {
+    "id": "listing-49",
+    "category": "listing",
+    "caption": "🎥 VIRTUAL TOUR NOW LIVE!\n\nCan't make it in person? No problem! Take a full walkthrough of [Address] in [Neighborhood], [City] from the comfort of your couch.\n\n🛏 [Beds] Beds | 🛁 [Baths] Baths | 📐 [SqFt] SqFt\n💰 [Price]\n\nHighlights: [Features]\n\nLink in bio to start your virtual tour! 🔗\n\nWant to see it in person after? Call [Name] at [Brokerage].\n\n#VirtualTour #3DTour #[City]RealEstate #HomeTour #TourFromHome",
+    "suggestedImageType": "Screenshot from the virtual tour showing the main living area with a PLAY button overlay",
+    "tone": "professional",
+    "platforms": ["instagram", "facebook", "linkedin"]
+  },
+  {
+    "id": "listing-50",
+    "category": "listing",
+    "caption": "Tour this home without leaving your bed 🛋📱\n\n[Address], [City]\n[Price] | [Beds]BD/[Baths]BA | [SqFt]SF\n\n[Features]\n\nFull 3D virtual tour is LIVE — link in bio!\n\nWho else loves house shopping in their pajamas? 😂🏠\n\n#VirtualTour #HomeTour #[City]Homes #HouseHunting #OnlineTour",
+    "suggestedImageType": "Fun graphic of someone on a couch with a phone showing the home tour",
+    "tone": "casual",
+    "platforms": ["instagram", "tiktok"]
+  },
+  {
+    "id": "listing-51",
+    "category": "listing",
+    "caption": "🌐 EXPERIENCE THIS HOME VIRTUALLY\n\nStep inside [Address] with our immersive 3D tour.\n\n📍 [Neighborhood], [City]\n💰 [Price]\n🛏 [Beds] Bedrooms | 🛁 [Baths] Bathrooms | 📐 [SqFt] SqFt\n\nExplore every room, every angle, every detail — including [Features] — all at your own pace.\n\nPerfect for out-of-town buyers or anyone who wants a first look before scheduling an in-person showing.\n\n🔗 Tour link in bio or DM for direct access.\n\n[Name] | [Brokerage]\n\n#VirtualTour #InteractiveTour #[City]RealEstate #RemoteHomeBuying #PropTech",
+    "suggestedImageType": "Wide-angle interior shot that mimics the virtual tour perspective, with 3D tour branding",
+    "tone": "professional",
+    "platforms": ["instagram", "facebook", "linkedin"]
+  },
+  {
+    "id": "listing-52",
+    "category": "listing",
+    "caption": "Take the tour from ANYWHERE in the world 🌍✨\n\n[Address], [City] now has a full virtual walkthrough! Whether you're across town or across the country, experience this [Beds]BD/[Baths]BA home like you're actually there.\n\n[Price] | [SqFt] SF\n[Features]\n\nClick, explore, fall in love 😍 Link in bio!\n\n#VirtualTour #DigitalOpenHouse #[City] #HomeShopping #TourThisHome",
+    "suggestedImageType": "Engaging reel thumbnail showing a split screen of the real home and virtual tour interface",
+    "tone": "energetic",
+    "platforms": ["instagram", "tiktok", "facebook"]
+  },
+  {
+    "id": "listing-53",
+    "category": "listing",
+    "caption": "⭐ FEATURED PROPERTY OF THE WEEK ⭐\n\n[Address], [Neighborhood], [City]\n\n💰 [Price]\n🛏 [Beds] Beds | 🛁 [Baths] Baths | 📐 [SqFt] SqFt\n\nWhy this home stands out: [Features]\n\nLocated in one of [City]'s most desirable neighborhoods, this property offers the perfect blend of comfort, style, and location. Whether you're upgrading, downsizing, or investing, this home deserves a closer look.\n\nSchedule your private showing with [Name] at [Brokerage].\n\n#FeaturedProperty #PropertyOfTheWeek #[City]RealEstate #MustSeeHome #TopListing",
+    "suggestedImageType": "Magazine-quality hero photo of the home with a FEATURED PROPERTY badge",
+    "tone": "professional",
+    "platforms": ["instagram", "facebook", "linkedin"]
+  },
+  {
+    "id": "listing-54",
+    "category": "listing",
+    "caption": "If I could only show you ONE home this week, it would be this one 👇\n\n📍 [Address], [Neighborhood]\n💰 [Price]\n🛏 [Beds] | 🛁 [Baths] | 📐 [SqFt] sqft\n\n[Features]\n\nI've seen a lot of homes. This one hits different. Trust me on this — come see it before someone else does! 😏\n\nDM me for details!\n\n[Name] | [Brokerage]\n\n#FeaturedListing #TopPick #[City]Homes #HomeOfTheWeek #DontMissThis",
+    "suggestedImageType": "Your absolute best photo of this property — the one that makes people stop scrolling",
+    "tone": "casual",
+    "platforms": ["instagram", "tiktok", "facebook"]
+  },
+  {
+    "id": "listing-55",
+    "category": "listing",
+    "caption": "🏆 SPOTLIGHT LISTING 🏆\n\nPresenting [Address] — the crown jewel of [Neighborhood], [City].\n\n💎 [Price]\n🛏 [Beds] Bedrooms | 🛁 [Baths] Bathrooms | 📐 [SqFt] Square Feet\n\nThis exceptional residence features [Features]. From the moment you arrive, you'll understand why this property commands attention. Every detail has been executed to perfection.\n\nThis is more than a home — it's a lifestyle.\n\nExclusive viewings available. Contact [Name] at [Brokerage].\n\n#SpotlightListing #LuxuryHome #[City]Luxury #FeaturedProperty #DreamHome #ExquisiteLiving",
+    "suggestedImageType": "Cinematic twilight exterior photo or dramatic interior shot of the home's signature feature",
+    "tone": "luxury",
+    "platforms": ["instagram", "facebook", "linkedin"]
+  }
+]

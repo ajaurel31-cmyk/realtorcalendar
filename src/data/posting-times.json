@@ -1,0 +1,22 @@
+{
+  "instagram": {
+    "best_times": ["11:00 AM", "2:00 PM", "7:00 PM"],
+    "best_days": ["Tuesday", "Wednesday", "Friday"],
+    "notes": "Reels perform best between 9 AM - 12 PM"
+  },
+  "facebook": {
+    "best_times": ["9:00 AM", "1:00 PM", "4:00 PM"],
+    "best_days": ["Wednesday", "Thursday", "Friday"],
+    "notes": "Video content gets 6x more engagement"
+  },
+  "linkedin": {
+    "best_times": ["7:30 AM", "12:00 PM", "5:00 PM"],
+    "best_days": ["Tuesday", "Wednesday", "Thursday"],
+    "notes": "Long-form posts perform well on weekday mornings"
+  },
+  "tiktok": {
+    "best_times": ["10:00 AM", "2:00 PM", "8:00 PM"],
+    "best_days": ["Tuesday", "Thursday", "Saturday"],
+    "notes": "Trending audio boosts reach significantly"
+  }
+}
