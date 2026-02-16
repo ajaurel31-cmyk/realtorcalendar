@@ -1,6 +1,7 @@
 "use client";
 
 import React, { useState, useEffect, useCallback } from "react";
+import LandingPage from "@/components/landing/LandingPage";
 import OnboardingWizard from "@/components/onboarding/OnboardingWizard";
 import CalendarGrid from "@/components/calendar/CalendarGrid";
 import GenerateButton from "@/components/generator/GenerateButton";
@@ -16,6 +17,7 @@ export default function Home() {
   const [profile, setProfile] = useState<AgentProfile>(DEFAULT_PROFILE);
   const [calendarState, setCalendarState] = useState<CalendarState | null>(null);
   const [showSettings, setShowSettings] = useState(false);
+  const [showLanding, setShowLanding] = useState(true);
   const [loaded, setLoaded] = useState(false);
   const [templatesReady, setTemplatesReady] = useState(false);
 
@@ -25,6 +27,10 @@ export default function Home() {
     const savedCalendar = getCalendarState();
     setProfile(savedProfile);
     setCalendarState(savedCalendar);
+    // Skip landing page if user has already completed onboarding
+    if (savedProfile.onboardingComplete) {
+      setShowLanding(false);
+    }
     setLoaded(true);
 
     loadTemplates().then(() => setTemplatesReady(true));
@@ -101,6 +107,10 @@ export default function Home() {
         </div>
       </div>
     );
+  }
+
+  if (showLanding && !profile.onboardingComplete) {
+    return <LandingPage onGetStarted={() => setShowLanding(false)} />;
   }
 
   if (!profile.onboardingComplete) {
