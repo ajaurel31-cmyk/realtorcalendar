@@ -1,0 +1,302 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Product Cover — Realtor Content Calendar</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800;900&display=swap');
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  /* Cover: 1600x900 — Gumroad recommended */
+  .cover {
+    width: 1600px;
+    height: 900px;
+    background: linear-gradient(135deg, #eef2ff 0%, #ffffff 40%, #faf5ff 100%);
+    font-family: 'Inter', system-ui, -apple-system, sans-serif;
+    display: flex;
+    align-items: center;
+    padding: 0 100px;
+    position: relative;
+    overflow: hidden;
+  }
+
+  .cover::before {
+    content: '';
+    position: absolute;
+    top: -200px;
+    right: -200px;
+    width: 600px;
+    height: 600px;
+    background: radial-gradient(circle, rgba(99,102,241,0.08) 0%, transparent 70%);
+    border-radius: 50%;
+  }
+
+  .cover::after {
+    content: '';
+    position: absolute;
+    bottom: -150px;
+    left: -150px;
+    width: 500px;
+    height: 500px;
+    background: radial-gradient(circle, rgba(168,85,247,0.06) 0%, transparent 70%);
+    border-radius: 50%;
+  }
+
+  .left {
+    flex: 1;
+    z-index: 1;
+  }
+
+  .badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    background: #eef2ff;
+    color: #4f46e5;
+    font-size: 14px;
+    font-weight: 700;
+    padding: 8px 18px;
+    border-radius: 100px;
+    margin-bottom: 28px;
+    letter-spacing: -0.01em;
+  }
+
+  .badge svg {
+    width: 16px;
+    height: 16px;
+  }
+
+  h1 {
+    font-size: 64px;
+    font-weight: 900;
+    line-height: 1.05;
+    letter-spacing: -0.03em;
+    color: #1a1a2e;
+    margin-bottom: 20px;
+    max-width: 600px;
+  }
+
+  h1 span {
+    background: linear-gradient(135deg, #6366f1, #9333ea);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+  }
+
+  .subtitle {
+    font-size: 20px;
+    color: #64748b;
+    line-height: 1.5;
+    max-width: 480px;
+    margin-bottom: 32px;
+  }
+
+  .stats {
+    display: flex;
+    gap: 32px;
+  }
+
+  .stat {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+  }
+
+  .stat-dot {
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+  }
+
+  .stat-text {
+    font-size: 14px;
+    font-weight: 600;
+    color: #475569;
+  }
+
+  /* Right side — calendar mockup */
+  .right {
+    flex: 0 0 620px;
+    z-index: 1;
+  }
+
+  .mockup {
+    background: white;
+    border-radius: 20px;
+    box-shadow: 0 25px 60px rgba(99,102,241,0.12), 0 4px 16px rgba(0,0,0,0.06);
+    padding: 28px;
+    transform: perspective(1200px) rotateY(-5deg) rotateX(2deg);
+  }
+
+  .mock-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 16px;
+  }
+
+  .mock-title {
+    font-size: 18px;
+    font-weight: 800;
+    color: #1a1a2e;
+  }
+
+  .mock-sub {
+    font-size: 11px;
+    color: #94a3b8;
+    margin-top: 2px;
+  }
+
+  .mock-btn {
+    background: #6366f1;
+    color: white;
+    font-size: 11px;
+    font-weight: 700;
+    padding: 8px 16px;
+    border-radius: 8px;
+    display: flex;
+    align-items: center;
+    gap: 6px;
+  }
+
+  .mock-days {
+    display: grid;
+    grid-template-columns: repeat(7, 1fr);
+    gap: 6px;
+  }
+
+  .mock-day-label {
+    font-size: 10px;
+    font-weight: 600;
+    color: #94a3b8;
+    text-align: center;
+    padding: 4px 0;
+  }
+
+  .mock-cell {
+    aspect-ratio: 1;
+    border-radius: 8px;
+    border: 1px solid #f1f5f9;
+    padding: 4px;
+    font-size: 10px;
+    color: #94a3b8;
+    position: relative;
+    background: white;
+  }
+
+  .mock-cell.empty {
+    background: #fafbfc;
+    border-color: transparent;
+  }
+
+  .mock-cell .post-chip {
+    margin-top: 3px;
+    font-size: 7px;
+    padding: 2px 4px;
+    border-radius: 4px;
+    font-weight: 600;
+    letter-spacing: -0.01em;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+  }
+
+  .chip-green { background: #dcfce7; color: #166534; border: 1px solid #bbf7d0; }
+  .chip-blue { background: #dbeafe; color: #1e40af; border: 1px solid #bfdbfe; }
+  .chip-amber { background: #fef3c7; color: #92400e; border: 1px solid #fde68a; }
+  .chip-purple { background: #f3e8ff; color: #6b21a8; border: 1px solid #e9d5ff; }
+</style>
+</head>
+<body>
+
+<div class="cover">
+  <div class="left">
+    <div class="badge">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14"/><path d="m12 5 7 7-7 7"/></svg>
+      214+ Ready-to-Use Post Templates
+    </div>
+    <h1>Your Real Estate <span>Content Calendar</span></h1>
+    <p class="subtitle">
+      Generate a full month of social media posts in seconds. Listings, tips, branding, engagement — all customized to your market.
+    </p>
+    <div class="stats">
+      <div class="stat">
+        <div class="stat-dot" style="background: #22c55e"></div>
+        <div class="stat-text">55 Listing</div>
+      </div>
+      <div class="stat">
+        <div class="stat-dot" style="background: #3b82f6"></div>
+        <div class="stat-text">55 Educational</div>
+      </div>
+      <div class="stat">
+        <div class="stat-dot" style="background: #f59e0b"></div>
+        <div class="stat-text">52 Branding</div>
+      </div>
+      <div class="stat">
+        <div class="stat-dot" style="background: #a855f7"></div>
+        <div class="stat-text">52 Engagement</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="right">
+    <div class="mockup">
+      <div class="mock-header">
+        <div>
+          <div class="mock-title">February 2026</div>
+          <div class="mock-sub">13 posts scheduled</div>
+        </div>
+        <div class="mock-btn">
+          <svg width="12" height="12" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="m12 3-1.912 5.813a2 2 0 0 1-1.275 1.275L3 12l5.813 1.912a2 2 0 0 1 1.275 1.275L12 21l1.912-5.813a2 2 0 0 1 1.275-1.275L21 12l-5.813-1.912a2 2 0 0 1-1.275-1.275L12 3Z"/></svg>
+          Generate Month
+        </div>
+      </div>
+      <div class="mock-days">
+        <div class="mock-day-label">Sun</div>
+        <div class="mock-day-label">Mon</div>
+        <div class="mock-day-label">Tue</div>
+        <div class="mock-day-label">Wed</div>
+        <div class="mock-day-label">Thu</div>
+        <div class="mock-day-label">Fri</div>
+        <div class="mock-day-label">Sat</div>
+
+        <div class="mock-cell">1</div>
+        <div class="mock-cell">2<div class="post-chip chip-green">Just Listed</div></div>
+        <div class="mock-cell">3</div>
+        <div class="mock-cell">4<div class="post-chip chip-blue">Market Tip</div></div>
+        <div class="mock-cell">5</div>
+        <div class="mock-cell">6<div class="post-chip chip-purple">Poll</div></div>
+        <div class="mock-cell">7</div>
+
+        <div class="mock-cell">8</div>
+        <div class="mock-cell">9<div class="post-chip chip-amber">My Story</div></div>
+        <div class="mock-cell">10</div>
+        <div class="mock-cell">11<div class="post-chip chip-green">Open House</div></div>
+        <div class="mock-cell">12</div>
+        <div class="mock-cell">13<div class="post-chip chip-blue">Buyer Tips</div></div>
+        <div class="mock-cell">14</div>
+
+        <div class="mock-cell">15</div>
+        <div class="mock-cell">16<div class="post-chip chip-purple">This or That</div></div>
+        <div class="mock-cell">17</div>
+        <div class="mock-cell">18<div class="post-chip chip-green">Just Sold</div></div>
+        <div class="mock-cell">19</div>
+        <div class="mock-cell">20<div class="post-chip chip-amber">Testimonial</div></div>
+        <div class="mock-cell">21</div>
+
+        <div class="mock-cell">22</div>
+        <div class="mock-cell">23<div class="post-chip chip-blue">Rates Update</div></div>
+        <div class="mock-cell">24</div>
+        <div class="mock-cell">25<div class="post-chip chip-green">Price Drop</div></div>
+        <div class="mock-cell">26</div>
+        <div class="mock-cell">27<div class="post-chip chip-purple">Quiz</div></div>
+        <div class="mock-cell">28</div>
+      </div>
+    </div>
+  </div>
+</div>
+
+</body>
+</html>
