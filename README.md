@@ -1,36 +1,74 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Realtor Content Calendar
+
+A full-featured content calendar web app for real estate agents. Generate a month of social media posts from 214 ready-to-use templates, customize them for your market, and export to PDF, CSV, or ICS.
+
+Built with Next.js 14, React 18, Tailwind CSS, and TypeScript. Runs entirely client-side with localStorage persistence — no backend required.
+
+## Features
+
+- **Onboarding wizard** — 5-step setup: name, brokerage, market area, posting cadence, platforms
+- **214 post templates** across 4 categories: Listing (30%), Educational (30%), Personal Branding (20%), Engagement (20%)
+- **Auto-fill calendar** — generates a balanced month of posts with one click
+- **Monthly calendar grid** with color-coded post categories
+- **Post editor** — slide-over panel to edit captions, toggle platforms, regenerate from a new template, copy to clipboard
+- **Drag-and-drop** post reordering (via @dnd-kit)
+- **Export** to PDF (visual calendar + post details), CSV (spreadsheet-ready), and ICS (add to Google Calendar / Outlook)
+- **Settings panel** — update profile, cadence, platforms, brand colors, custom hashtags
+- **Landing page** for first-time visitors
+- **Static export** — builds to a standalone `/out` directory for distribution on Gumroad / Lemon Squeezy
 
 ## Getting Started
 
-First, run the development server:
-
 ```bash
+npm install
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Open [http://localhost:3000](http://localhost:3000) in your browser.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Scripts
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+| Command | Description |
+|---|---|
+| `npm run dev` | Start development server |
+| `npm run build` | Production build (static export to `/out`) |
+| `npm run lint` | Run ESLint |
+| `npm test` | Run unit tests (Vitest) |
+| `npm run test:watch` | Run tests in watch mode |
 
-## Learn More
+## Project Structure
 
-To learn more about Next.js, take a look at the following resources:
+```
+src/
+├── app/                  # Next.js app router (layout, page, styles)
+├── components/
+│   ├── calendar/         # CalendarGrid, DayCell, PostDetail
+│   ├── export/           # ExportMenu (PDF, CSV, ICS)
+│   ├── generator/        # GenerateButton
+│   ├── landing/          # LandingPage
+│   ├── onboarding/       # OnboardingWizard
+│   ├── settings/         # CustomizePanel
+│   └── ui/               # Shared primitives (Button, Badge, Input, etc.)
+├── data/
+│   ├── templates/        # 214 post templates (JSON, split by category)
+│   ├── hashtags.json     # Platform-specific hashtag sets
+│   └── posting-times.json
+├── lib/
+│   ├── calendar-generator.ts  # Month generation logic
+│   ├── template-engine.ts     # Placeholder fill + hashtag assembly
+│   ├── export-utils.ts        # PDF, CSV, ICS export
+│   ├── storage.ts             # localStorage wrapper
+│   └── utils.ts               # Tailwind merge helper
+└── types/                # TypeScript type definitions
+```
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Tech Stack
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+- [Next.js 14](https://nextjs.org) (App Router, static export)
+- [React 18](https://react.dev)
+- [TypeScript](https://www.typescriptlang.org)
+- [Tailwind CSS](https://tailwindcss.com)
+- [Radix UI](https://www.radix-ui.com) (accessible primitives)
+- [@dnd-kit](https://dndkit.com) (drag-and-drop)
+- [jsPDF](https://github.com/parallax/jsPDF) (PDF generation)
+- [Vitest](https://vitest.dev) (unit testing)

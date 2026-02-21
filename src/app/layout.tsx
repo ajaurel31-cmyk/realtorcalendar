@@ -26,6 +26,20 @@ export const metadata: Metadata = {
     "instagram",
     "real estate agent",
   ],
+  openGraph: {
+    title: "Realtor Content Calendar",
+    description:
+      "214 ready-to-use social media templates for real estate agents. Generate, customize, and export a full month of content in minutes.",
+    type: "website",
+    locale: "en_US",
+    siteName: "Realtor Content Calendar",
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Realtor Content Calendar",
+    description:
+      "214 ready-to-use social media templates for real estate agents. Generate, customize, and export a full month of content in minutes.",
+  },
 };
 
 export default function RootLayout({

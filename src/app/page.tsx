@@ -8,7 +8,7 @@ import GenerateButton from "@/components/generator/GenerateButton";
 import ExportMenu from "@/components/export/ExportMenu";
 import CustomizePanel from "@/components/settings/CustomizePanel";
 import { AgentProfile, CalendarPost, CalendarState, DEFAULT_PROFILE } from "@/types";
-import { getProfile, saveProfile, getCalendarState, saveCalendarState } from "@/lib/storage";
+import { getProfile, saveProfile, getCalendarState, saveCalendarState, clearAllData } from "@/lib/storage";
 import { generateMonth, loadTemplates } from "@/lib/calendar-generator";
 import { Settings, CalendarDays, RotateCcw } from "lucide-react";
 import { Button } from "@/components/ui/button";
@@ -92,9 +92,10 @@ export default function Home() {
 
   const handleReset = () => {
     if (confirm("This will clear all your data and restart the setup. Continue?")) {
-      localStorage.clear();
+      clearAllData();
       setProfile(DEFAULT_PROFILE);
       setCalendarState(null);
+      setShowLanding(true);
     }
   };
 
